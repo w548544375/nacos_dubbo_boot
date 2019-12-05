@@ -1,0 +1,2686 @@
+2019-11-14 18:47:22,820 WARN [master-db] jdbc:mysql://mysql-master:3306/nacos_devtest?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2019-11-14 18:47:26,853 ERROR [db-error] slave db  down.
+
+2019-11-14 18:47:28,238 WARN useAddressServer:true
+
+2019-11-14 18:47:28,671 WARN isQuickStart:false
+
+2019-11-14 18:47:40,868 ERROR [db-error] slave db  down.
+
+2019-11-14 18:47:54,885 ERROR [db-error] slave db  down.
+
+2019-11-14 18:48:08,877 ERROR [db-error] slave db  down.
+
+2019-11-14 18:48:22,902 ERROR [db-error] slave db  down.
+
+2019-11-14 18:48:36,889 ERROR [db-error] slave db  down.
+
+2019-11-14 18:48:50,897 ERROR [db-error] slave db  down.
+
+2019-11-14 18:49:04,905 ERROR [db-error] slave db  down.
+
+2019-11-14 18:49:18,895 ERROR [db-error] slave db  down.
+
+2019-11-14 18:49:32,905 ERROR [db-error] slave db  down.
+
+2019-11-14 18:49:46,891 ERROR [db-error] slave db  down.
+
+2019-11-14 18:50:00,905 ERROR [db-error] slave db  down.
+
+2019-11-14 18:50:14,897 ERROR [db-error] slave db  down.
+
+2019-11-14 18:50:28,905 ERROR [db-error] slave db  down.
+
+2019-11-14 18:50:42,892 ERROR [db-error] slave db  down.
+
+2019-11-14 18:50:56,900 ERROR [db-error] slave db  down.
+
+2019-11-14 18:51:10,889 ERROR [db-error] slave db  down.
+
+2019-11-14 18:51:24,897 ERROR [db-error] slave db  down.
+
+2019-11-14 18:51:38,887 ERROR [db-error] slave db  down.
+
+2019-11-14 18:51:52,897 ERROR [db-error] slave db  down.
+
+2019-11-14 18:52:06,887 ERROR [db-error] slave db  down.
+
+2019-11-14 18:52:20,895 ERROR [db-error] slave db  down.
+
+2019-11-14 18:52:34,906 ERROR [db-error] slave db  down.
+
+2019-11-14 18:52:48,891 ERROR [db-error] slave db  down.
+
+2019-11-14 18:53:02,902 ERROR [db-error] slave db  down.
+
+2019-11-14 18:53:16,890 ERROR [db-error] slave db  down.
+
+2019-11-14 18:53:30,902 ERROR [db-error] slave db  down.
+
+2019-11-14 18:53:44,891 ERROR [db-error] slave db  down.
+
+2019-11-14 18:53:58,896 ERROR [db-error] slave db  down.
+
+2019-11-14 18:54:12,881 ERROR [db-error] slave db  down.
+
+2019-11-14 18:54:26,894 ERROR [db-error] slave db  down.
+
+2019-11-14 18:54:40,883 ERROR [db-error] slave db  down.
+
+2019-11-14 18:54:54,897 ERROR [db-error] slave db  down.
+
+2019-11-14 18:55:08,884 ERROR [db-error] slave db  down.
+
+2019-11-14 18:55:22,895 ERROR [db-error] slave db  down.
+
+2019-11-14 18:55:36,881 ERROR [db-error] slave db  down.
+
+2019-11-14 18:55:50,893 ERROR [db-error] slave db  down.
+
+2019-11-14 18:56:04,903 ERROR [db-error] slave db  down.
+
+2019-11-14 18:56:18,891 ERROR [db-error] slave db  down.
+
+2019-11-14 18:56:32,898 ERROR [db-error] slave db  down.
+
+2019-11-14 18:56:46,882 ERROR [db-error] slave db  down.
+
+2019-11-14 18:57:00,891 ERROR [db-error] slave db  down.
+
+2019-11-14 18:57:14,879 ERROR [db-error] slave db  down.
+
+2019-11-14 18:57:28,894 ERROR [db-error] slave db  down.
+
+2019-11-14 18:57:42,879 ERROR [db-error] slave db  down.
+
+2019-11-14 18:57:56,887 ERROR [db-error] slave db  down.
+
+2019-11-14 18:58:10,874 ERROR [db-error] slave db  down.
+
+2019-11-14 18:58:24,882 ERROR [db-error] slave db  down.
+
+2019-11-14 18:58:38,866 ERROR [db-error] slave db  down.
+
+2019-11-14 18:58:52,877 ERROR [db-error] slave db  down.
+
+2019-11-14 18:59:06,876 ERROR [db-error] slave db  down.
+
+2019-11-14 18:59:20,891 ERROR [db-error] slave db  down.
+
+2019-11-14 18:59:34,899 ERROR [db-error] slave db  down.
+
+2019-11-14 18:59:48,909 ERROR [db-error] slave db  down.
+
+2019-11-14 19:00:02,926 ERROR [db-error] slave db  down.
+
+2019-11-14 19:00:16,918 ERROR [db-error] slave db  down.
+
+2019-11-14 19:00:30,927 ERROR [db-error] slave db  down.
+
+2019-11-14 19:00:44,913 ERROR [db-error] slave db  down.
+
+2019-11-14 19:00:58,923 ERROR [db-error] slave db  down.
+
+2019-11-14 19:01:12,908 ERROR [db-error] slave db  down.
+
+2019-11-14 19:01:26,914 ERROR [db-error] slave db  down.
+
+2019-11-14 19:01:40,950 ERROR [db-error] slave db  down.
+
+2019-11-14 19:01:54,957 ERROR [db-error] slave db  down.
+
+2019-11-14 19:02:08,947 ERROR [db-error] slave db  down.
+
+2019-11-14 19:02:22,958 ERROR [db-error] slave db  down.
+
+2019-11-14 19:02:36,944 ERROR [db-error] slave db  down.
+
+2019-11-14 19:02:50,955 ERROR [db-error] slave db  down.
+
+2019-11-14 19:03:04,965 ERROR [db-error] slave db  down.
+
+2019-11-14 19:03:18,953 ERROR [db-error] slave db  down.
+
+2019-11-14 19:03:32,960 ERROR [db-error] slave db  down.
+
+2019-11-14 19:03:46,946 ERROR [db-error] slave db  down.
+
+2019-11-14 19:04:00,953 ERROR [db-error] slave db  down.
+
+2019-11-14 19:04:14,938 ERROR [db-error] slave db  down.
+
+2019-11-14 19:04:28,950 ERROR [db-error] slave db  down.
+
+2019-11-14 19:04:42,942 ERROR [db-error] slave db  down.
+
+2019-11-14 19:04:56,950 ERROR [db-error] slave db  down.
+
+2019-11-14 19:05:10,940 ERROR [db-error] slave db  down.
+
+2019-11-14 19:05:24,954 ERROR [db-error] slave db  down.
+
+2019-11-14 19:05:38,942 ERROR [db-error] slave db  down.
+
+2019-11-14 19:05:52,951 ERROR [db-error] slave db  down.
+
+2019-11-14 19:06:06,939 ERROR [db-error] slave db  down.
+
+2019-11-14 19:06:20,947 ERROR [db-error] slave db  down.
+
+2019-11-14 19:06:34,933 ERROR [db-error] slave db  down.
+
+2019-11-14 19:06:48,941 ERROR [db-error] slave db  down.
+
+2019-11-14 19:07:02,952 ERROR [db-error] slave db  down.
+
+2019-11-14 19:07:16,947 ERROR [db-error] slave db  down.
+
+2019-11-14 19:07:30,963 ERROR [db-error] slave db  down.
+
+2019-11-14 19:07:44,946 ERROR [db-error] slave db  down.
+
+2019-11-14 19:07:58,953 ERROR [db-error] slave db  down.
+
+2019-11-14 19:08:12,951 ERROR [db-error] slave db  down.
+
+2019-11-14 19:08:26,960 ERROR [db-error] slave db  down.
+
+2019-11-14 19:08:40,947 ERROR [db-error] slave db  down.
+
+2019-11-14 19:08:54,955 ERROR [db-error] slave db  down.
+
+2019-11-14 19:09:08,941 ERROR [db-error] slave db  down.
+
+2019-11-14 19:09:22,949 ERROR [db-error] slave db  down.
+
+2019-11-14 19:09:36,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:09:50,948 ERROR [db-error] slave db  down.
+
+2019-11-14 19:10:04,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:10:18,946 ERROR [db-error] slave db  down.
+
+2019-11-14 19:10:32,962 ERROR [db-error] slave db  down.
+
+2019-11-14 19:10:46,948 ERROR [db-error] slave db  down.
+
+2019-11-14 19:11:00,954 ERROR [db-error] slave db  down.
+
+2019-11-14 19:11:14,940 ERROR [db-error] slave db  down.
+
+2019-11-14 19:11:28,951 ERROR [db-error] slave db  down.
+
+2019-11-14 19:11:42,936 ERROR [db-error] slave db  down.
+
+2019-11-14 19:11:56,943 ERROR [db-error] slave db  down.
+
+2019-11-14 19:12:10,927 ERROR [db-error] slave db  down.
+
+2019-11-14 19:12:24,933 ERROR [db-error] slave db  down.
+
+2019-11-14 19:12:38,919 ERROR [db-error] slave db  down.
+
+2019-11-14 19:12:52,930 ERROR [db-error] slave db  down.
+
+2019-11-14 19:13:06,921 ERROR [db-error] slave db  down.
+
+2019-11-14 19:13:20,930 ERROR [db-error] slave db  down.
+
+2019-11-14 19:13:34,915 ERROR [db-error] slave db  down.
+
+2019-11-14 19:13:48,924 ERROR [db-error] slave db  down.
+
+2019-11-14 19:14:02,933 ERROR [db-error] slave db  down.
+
+2019-11-14 19:14:16,918 ERROR [db-error] slave db  down.
+
+2019-11-14 19:14:30,924 ERROR [db-error] slave db  down.
+
+2019-11-14 19:14:44,918 ERROR [db-error] slave db  down.
+
+2019-11-14 19:14:58,925 ERROR [db-error] slave db  down.
+
+2019-11-14 19:15:12,909 ERROR [db-error] slave db  down.
+
+2019-11-14 19:15:26,916 ERROR [db-error] slave db  down.
+
+2019-11-14 19:15:40,901 ERROR [db-error] slave db  down.
+
+2019-11-14 19:15:54,910 ERROR [db-error] slave db  down.
+
+2019-11-14 19:16:08,906 ERROR [db-error] slave db  down.
+
+2019-11-14 19:16:22,914 ERROR [db-error] slave db  down.
+
+2019-11-14 19:16:36,904 ERROR [db-error] slave db  down.
+
+2019-11-14 19:16:50,911 ERROR [db-error] slave db  down.
+
+2019-11-14 19:17:04,902 ERROR [db-error] slave db  down.
+
+2019-11-14 19:17:18,913 ERROR [db-error] slave db  down.
+
+2019-11-14 19:17:32,920 ERROR [db-error] slave db  down.
+
+2019-11-14 19:17:46,906 ERROR [db-error] slave db  down.
+
+2019-11-14 19:18:00,916 ERROR [db-error] slave db  down.
+
+2019-11-14 19:18:14,904 ERROR [db-error] slave db  down.
+
+2019-11-14 19:18:28,915 ERROR [db-error] slave db  down.
+
+2019-11-14 19:18:42,902 ERROR [db-error] slave db  down.
+
+2019-11-14 19:18:56,908 ERROR [db-error] slave db  down.
+
+2019-11-14 19:19:10,892 ERROR [db-error] slave db  down.
+
+2019-11-14 19:19:24,906 ERROR [db-error] slave db  down.
+
+2019-11-14 19:19:38,894 ERROR [db-error] slave db  down.
+
+2019-11-14 19:19:52,909 ERROR [db-error] slave db  down.
+
+2019-11-14 19:20:06,896 ERROR [db-error] slave db  down.
+
+2019-11-14 19:20:20,903 ERROR [db-error] slave db  down.
+
+2019-11-14 19:20:34,888 ERROR [db-error] slave db  down.
+
+2019-11-14 19:20:48,899 ERROR [db-error] slave db  down.
+
+2019-11-14 19:21:02,907 ERROR [db-error] slave db  down.
+
+2019-11-14 19:21:16,890 ERROR [db-error] slave db  down.
+
+2019-11-14 19:21:30,899 ERROR [db-error] slave db  down.
+
+2019-11-14 19:21:44,885 ERROR [db-error] slave db  down.
+
+2019-11-14 19:21:58,893 ERROR [db-error] slave db  down.
+
+2019-11-14 19:22:12,884 ERROR [db-error] slave db  down.
+
+2019-11-14 19:22:26,893 ERROR [db-error] slave db  down.
+
+2019-11-14 19:22:40,879 ERROR [db-error] slave db  down.
+
+2019-11-14 19:22:54,887 ERROR [db-error] slave db  down.
+
+2019-11-14 19:23:08,874 ERROR [db-error] slave db  down.
+
+2019-11-14 19:23:22,884 ERROR [db-error] slave db  down.
+
+2019-11-14 19:23:36,870 ERROR [db-error] slave db  down.
+
+2019-11-14 19:23:50,878 ERROR [db-error] slave db  down.
+
+2019-11-14 19:24:04,866 ERROR [db-error] slave db  down.
+
+2019-11-14 19:24:18,874 ERROR [db-error] slave db  down.
+
+2019-11-14 19:24:32,879 ERROR [db-error] slave db  down.
+
+2019-11-14 19:24:46,866 ERROR [db-error] slave db  down.
+
+2019-11-14 19:25:00,871 ERROR [db-error] slave db  down.
+
+2019-11-14 19:25:14,861 ERROR [db-error] slave db  down.
+
+2019-11-14 19:25:28,868 ERROR [db-error] slave db  down.
+
+2019-11-14 19:25:42,852 ERROR [db-error] slave db  down.
+
+2019-11-14 19:25:56,861 ERROR [db-error] slave db  down.
+
+2019-11-14 19:26:10,848 ERROR [db-error] slave db  down.
+
+2019-11-14 19:26:24,857 ERROR [db-error] slave db  down.
+
+2019-11-14 19:26:38,846 ERROR [db-error] slave db  down.
+
+2019-11-14 19:26:52,852 ERROR [db-error] slave db  down.
+
+2019-11-14 19:27:06,836 ERROR [db-error] slave db  down.
+
+2019-11-14 19:27:20,844 ERROR [db-error] slave db  down.
+
+2019-11-14 19:27:34,828 ERROR [db-error] slave db  down.
+
+2019-11-14 19:27:48,837 ERROR [db-error] slave db  down.
+
+2019-11-14 19:28:02,850 ERROR [db-error] slave db  down.
+
+2019-11-14 19:28:16,834 ERROR [db-error] slave db  down.
+
+2019-11-14 19:28:30,845 ERROR [db-error] slave db  down.
+
+2019-11-14 19:28:44,832 ERROR [db-error] slave db  down.
+
+2019-11-14 19:28:58,840 ERROR [db-error] slave db  down.
+
+2019-11-14 19:29:12,830 ERROR [db-error] slave db  down.
+
+2019-11-14 19:29:26,840 ERROR [db-error] slave db  down.
+
+2019-11-14 19:29:40,833 ERROR [db-error] slave db  down.
+
+2019-11-14 19:29:54,842 ERROR [db-error] slave db  down.
+
+2019-11-14 19:30:08,822 ERROR [db-error] slave db  down.
+
+2019-11-14 19:30:22,835 ERROR [db-error] slave db  down.
+
+2019-11-14 19:30:36,820 ERROR [db-error] slave db  down.
+
+2019-11-14 19:30:50,838 ERROR [db-error] slave db  down.
+
+2019-11-14 19:31:04,823 ERROR [db-error] slave db  down.
+
+2019-11-14 19:31:18,834 ERROR [db-error] slave db  down.
+
+2019-11-14 19:31:32,844 ERROR [db-error] slave db  down.
+
+2019-11-14 19:31:46,841 ERROR [db-error] slave db  down.
+
+2019-11-14 19:32:00,850 ERROR [db-error] slave db  down.
+
+2019-11-14 19:32:14,848 ERROR [db-error] slave db  down.
+
+2019-11-14 19:32:28,864 ERROR [db-error] slave db  down.
+
+2019-11-14 19:32:42,854 ERROR [db-error] slave db  down.
+
+2019-11-14 19:32:56,867 ERROR [db-error] slave db  down.
+
+2019-11-14 19:33:10,851 ERROR [db-error] slave db  down.
+
+2019-11-14 19:33:24,863 ERROR [db-error] slave db  down.
+
+2019-11-14 19:33:38,849 ERROR [db-error] slave db  down.
+
+2019-11-14 19:33:52,861 ERROR [db-error] slave db  down.
+
+2019-11-14 19:34:06,854 ERROR [db-error] slave db  down.
+
+2019-11-14 19:34:20,867 ERROR [db-error] slave db  down.
+
+2019-11-14 19:34:34,857 ERROR [db-error] slave db  down.
+
+2019-11-14 19:34:48,866 ERROR [db-error] slave db  down.
+
+2019-11-14 19:35:02,877 ERROR [db-error] slave db  down.
+
+2019-11-14 19:35:16,867 ERROR [db-error] slave db  down.
+
+2019-11-14 19:35:30,882 ERROR [db-error] slave db  down.
+
+2019-11-14 19:35:44,871 ERROR [db-error] slave db  down.
+
+2019-11-14 19:35:58,881 ERROR [db-error] slave db  down.
+
+2019-11-14 19:36:12,868 ERROR [db-error] slave db  down.
+
+2019-11-14 19:36:26,878 ERROR [db-error] slave db  down.
+
+2019-11-14 19:36:40,862 ERROR [db-error] slave db  down.
+
+2019-11-14 19:36:54,873 ERROR [db-error] slave db  down.
+
+2019-11-14 19:37:08,864 ERROR [db-error] slave db  down.
+
+2019-11-14 19:37:22,880 ERROR [db-error] slave db  down.
+
+2019-11-14 19:37:36,869 ERROR [db-error] slave db  down.
+
+2019-11-14 19:37:50,876 ERROR [db-error] slave db  down.
+
+2019-11-14 19:38:04,863 ERROR [db-error] slave db  down.
+
+2019-11-14 19:38:18,870 ERROR [db-error] slave db  down.
+
+2019-11-14 19:38:32,880 ERROR [db-error] slave db  down.
+
+2019-11-14 19:38:46,866 ERROR [db-error] slave db  down.
+
+2019-11-14 19:39:00,878 ERROR [db-error] slave db  down.
+
+2019-11-14 19:39:14,866 ERROR [db-error] slave db  down.
+
+2019-11-14 19:39:28,875 ERROR [db-error] slave db  down.
+
+2019-11-14 19:39:42,863 ERROR [db-error] slave db  down.
+
+2019-11-14 19:39:56,879 ERROR [db-error] slave db  down.
+
+2019-11-14 19:40:10,876 ERROR [db-error] slave db  down.
+
+2019-11-14 19:40:24,890 ERROR [db-error] slave db  down.
+
+2019-11-14 19:40:38,877 ERROR [db-error] slave db  down.
+
+2019-11-14 19:40:52,887 ERROR [db-error] slave db  down.
+
+2019-11-14 19:41:06,878 ERROR [db-error] slave db  down.
+
+2019-11-14 19:41:20,885 ERROR [db-error] slave db  down.
+
+2019-11-14 19:41:34,873 ERROR [db-error] slave db  down.
+
+2019-11-14 19:41:48,888 ERROR [db-error] slave db  down.
+
+2019-11-14 19:42:02,907 ERROR [db-error] slave db  down.
+
+2019-11-14 19:42:16,899 ERROR [db-error] slave db  down.
+
+2019-11-14 19:42:30,908 ERROR [db-error] slave db  down.
+
+2019-11-14 19:42:44,895 ERROR [db-error] slave db  down.
+
+2019-11-14 19:42:58,903 ERROR [db-error] slave db  down.
+
+2019-11-14 19:43:12,891 ERROR [db-error] slave db  down.
+
+2019-11-14 19:43:26,907 ERROR [db-error] slave db  down.
+
+2019-11-14 19:43:40,895 ERROR [db-error] slave db  down.
+
+2019-11-14 19:43:54,910 ERROR [db-error] slave db  down.
+
+2019-11-14 19:44:08,894 ERROR [db-error] slave db  down.
+
+2019-11-14 19:44:22,902 ERROR [db-error] slave db  down.
+
+2019-11-14 19:44:36,892 ERROR [db-error] slave db  down.
+
+2019-11-14 19:44:50,898 ERROR [db-error] slave db  down.
+
+2019-11-14 19:45:04,883 ERROR [db-error] slave db  down.
+
+2019-11-14 19:45:18,898 ERROR [db-error] slave db  down.
+
+2019-11-14 19:45:32,935 ERROR [db-error] slave db  down.
+
+2019-11-14 19:45:46,928 ERROR [db-error] slave db  down.
+
+2019-11-14 19:46:00,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:46:14,921 ERROR [db-error] slave db  down.
+
+2019-11-14 19:46:28,936 ERROR [db-error] slave db  down.
+
+2019-11-14 19:46:42,927 ERROR [db-error] slave db  down.
+
+2019-11-14 19:46:56,939 ERROR [db-error] slave db  down.
+
+2019-11-14 19:47:10,928 ERROR [db-error] slave db  down.
+
+2019-11-14 19:47:24,934 ERROR [db-error] slave db  down.
+
+2019-11-14 19:47:38,926 ERROR [db-error] slave db  down.
+
+2019-11-14 19:47:52,938 ERROR [db-error] slave db  down.
+
+2019-11-14 19:48:06,930 ERROR [db-error] slave db  down.
+
+2019-11-14 19:48:20,939 ERROR [db-error] slave db  down.
+
+2019-11-14 19:48:34,930 ERROR [db-error] slave db  down.
+
+2019-11-14 19:48:48,935 ERROR [db-error] slave db  down.
+
+2019-11-14 19:49:02,944 ERROR [db-error] slave db  down.
+
+2019-11-14 19:49:16,930 ERROR [db-error] slave db  down.
+
+2019-11-14 19:49:30,939 ERROR [db-error] slave db  down.
+
+2019-11-14 19:49:44,928 ERROR [db-error] slave db  down.
+
+2019-11-14 19:49:58,935 ERROR [db-error] slave db  down.
+
+2019-11-14 19:50:12,925 ERROR [db-error] slave db  down.
+
+2019-11-14 19:50:26,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:50:40,924 ERROR [db-error] slave db  down.
+
+2019-11-14 19:50:54,934 ERROR [db-error] slave db  down.
+
+2019-11-14 19:51:08,921 ERROR [db-error] slave db  down.
+
+2019-11-14 19:51:22,933 ERROR [db-error] slave db  down.
+
+2019-11-14 19:51:36,933 ERROR [db-error] slave db  down.
+
+2019-11-14 19:51:50,948 ERROR [db-error] slave db  down.
+
+2019-11-14 19:52:04,936 ERROR [db-error] slave db  down.
+
+2019-11-14 19:52:18,952 ERROR [db-error] slave db  down.
+
+2019-11-14 19:52:32,962 ERROR [db-error] slave db  down.
+
+2019-11-14 19:52:46,948 ERROR [db-error] slave db  down.
+
+2019-11-14 19:53:00,957 ERROR [db-error] slave db  down.
+
+2019-11-14 19:53:14,946 ERROR [db-error] slave db  down.
+
+2019-11-14 19:53:28,955 ERROR [db-error] slave db  down.
+
+2019-11-14 19:53:42,945 ERROR [db-error] slave db  down.
+
+2019-11-14 19:53:56,954 ERROR [db-error] slave db  down.
+
+2019-11-14 19:54:10,940 ERROR [db-error] slave db  down.
+
+2019-11-14 19:54:24,949 ERROR [db-error] slave db  down.
+
+2019-11-14 19:54:38,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:54:52,946 ERROR [db-error] slave db  down.
+
+2019-11-14 19:55:06,929 ERROR [db-error] slave db  down.
+
+2019-11-14 19:55:20,943 ERROR [db-error] slave db  down.
+
+2019-11-14 19:55:34,930 ERROR [db-error] slave db  down.
+
+2019-11-14 19:55:48,939 ERROR [db-error] slave db  down.
+
+2019-11-14 19:56:02,948 ERROR [db-error] slave db  down.
+
+2019-11-14 19:56:16,942 ERROR [db-error] slave db  down.
+
+2019-11-14 19:56:30,949 ERROR [db-error] slave db  down.
+
+2019-11-14 19:56:44,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:56:58,956 ERROR [db-error] slave db  down.
+
+2019-11-14 19:57:12,943 ERROR [db-error] slave db  down.
+
+2019-11-14 19:57:26,954 ERROR [db-error] slave db  down.
+
+2019-11-14 19:57:40,944 ERROR [db-error] slave db  down.
+
+2019-11-14 19:57:54,951 ERROR [db-error] slave db  down.
+
+2019-11-14 19:58:08,950 ERROR [db-error] slave db  down.
+
+2019-11-14 19:58:22,957 ERROR [db-error] slave db  down.
+
+2019-11-14 19:58:36,942 ERROR [db-error] slave db  down.
+
+2019-11-14 19:58:50,951 ERROR [db-error] slave db  down.
+
+2019-11-14 19:59:04,937 ERROR [db-error] slave db  down.
+
+2019-11-14 19:59:18,947 ERROR [db-error] slave db  down.
+
+2019-11-14 19:59:32,957 ERROR [db-error] slave db  down.
+
+2019-11-14 19:59:46,946 ERROR [db-error] slave db  down.
+
+2019-11-14 20:00:00,955 ERROR [db-error] slave db  down.
+
+2019-11-14 20:00:14,941 ERROR [db-error] slave db  down.
+
+2019-11-14 20:00:28,949 ERROR [db-error] slave db  down.
+
+2019-11-14 20:00:42,935 ERROR [db-error] slave db  down.
+
+2019-11-14 20:00:56,945 ERROR [db-error] slave db  down.
+
+2019-11-14 20:01:10,935 ERROR [db-error] slave db  down.
+
+2019-11-14 20:01:24,944 ERROR [db-error] slave db  down.
+
+2019-11-14 20:01:38,929 ERROR [db-error] slave db  down.
+
+2019-11-14 20:01:52,938 ERROR [db-error] slave db  down.
+
+2019-11-14 20:02:06,928 ERROR [db-error] slave db  down.
+
+2019-11-14 20:02:20,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:02:34,925 ERROR [db-error] slave db  down.
+
+2019-11-14 20:02:48,935 ERROR [db-error] slave db  down.
+
+2019-11-14 20:03:02,934 ERROR [db-error] slave db  down.
+
+2019-11-14 20:03:16,943 ERROR [db-error] slave db  down.
+
+2019-11-14 20:03:30,950 ERROR [db-error] slave db  down.
+
+2019-11-14 20:03:44,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:03:58,948 ERROR [db-error] slave db  down.
+
+2019-11-14 20:04:12,932 ERROR [db-error] slave db  down.
+
+2019-11-14 20:04:26,943 ERROR [db-error] slave db  down.
+
+2019-11-14 20:04:40,930 ERROR [db-error] slave db  down.
+
+2019-11-14 20:04:54,948 ERROR [db-error] slave db  down.
+
+2019-11-14 20:05:08,945 ERROR [db-error] slave db  down.
+
+2019-11-14 20:05:22,953 ERROR [db-error] slave db  down.
+
+2019-11-14 20:05:36,953 ERROR [db-error] slave db  down.
+
+2019-11-14 20:05:50,961 ERROR [db-error] slave db  down.
+
+2019-11-14 20:06:04,946 ERROR [db-error] slave db  down.
+
+2019-11-14 20:06:18,952 ERROR [db-error] slave db  down.
+
+2019-11-14 20:06:32,938 ERROR [db-error] slave db  down.
+
+2019-11-14 20:06:46,948 ERROR [db-error] slave db  down.
+
+2019-11-14 20:07:00,960 ERROR [db-error] slave db  down.
+
+2019-11-14 20:07:14,943 ERROR [db-error] slave db  down.
+
+2019-11-14 20:07:28,953 ERROR [db-error] slave db  down.
+
+2019-11-14 20:07:42,939 ERROR [db-error] slave db  down.
+
+2019-11-14 20:07:56,952 ERROR [db-error] slave db  down.
+
+2019-11-14 20:08:10,943 ERROR [db-error] slave db  down.
+
+2019-11-14 20:08:24,950 ERROR [db-error] slave db  down.
+
+2019-11-14 20:08:38,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:08:52,951 ERROR [db-error] slave db  down.
+
+2019-11-14 20:09:06,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:09:20,946 ERROR [db-error] slave db  down.
+
+2019-11-14 20:09:34,939 ERROR [db-error] slave db  down.
+
+2019-11-14 20:09:48,952 ERROR [db-error] slave db  down.
+
+2019-11-14 20:10:02,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:10:16,945 ERROR [db-error] slave db  down.
+
+2019-11-14 20:10:30,954 ERROR [db-error] slave db  down.
+
+2019-11-14 20:10:44,941 ERROR [db-error] slave db  down.
+
+2019-11-14 20:10:58,958 ERROR [db-error] slave db  down.
+
+2019-11-14 20:11:12,944 ERROR [db-error] slave db  down.
+
+2019-11-14 20:11:26,952 ERROR [db-error] slave db  down.
+
+2019-11-14 20:11:40,940 ERROR [db-error] slave db  down.
+
+2019-11-14 20:11:54,951 ERROR [db-error] slave db  down.
+
+2019-11-14 20:12:08,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:12:22,945 ERROR [db-error] slave db  down.
+
+2019-11-14 20:12:36,938 ERROR [db-error] slave db  down.
+
+2019-11-14 20:12:50,944 ERROR [db-error] slave db  down.
+
+2019-11-14 20:13:04,931 ERROR [db-error] slave db  down.
+
+2019-11-14 20:13:18,940 ERROR [db-error] slave db  down.
+
+2019-11-14 20:13:32,929 ERROR [db-error] slave db  down.
+
+2019-11-14 20:13:46,941 ERROR [db-error] slave db  down.
+
+2019-11-14 20:14:00,951 ERROR [db-error] slave db  down.
+
+2019-11-14 20:14:14,939 ERROR [db-error] slave db  down.
+
+2019-11-14 20:14:28,954 ERROR [db-error] slave db  down.
+
+2019-11-14 20:14:42,937 ERROR [db-error] slave db  down.
+
+2019-11-14 20:14:56,946 ERROR [db-error] slave db  down.
+
+2019-11-14 20:15:10,933 ERROR [db-error] slave db  down.
+
+2019-11-14 20:15:24,943 ERROR [db-error] slave db  down.
+
+2019-11-14 20:15:38,935 ERROR [db-error] slave db  down.
+
+2019-11-14 20:15:52,942 ERROR [db-error] slave db  down.
+
+2019-11-14 20:16:06,931 ERROR [db-error] slave db  down.
+
+2019-11-14 20:16:20,941 ERROR [db-error] slave db  down.
+
+2019-11-14 20:16:34,933 ERROR [db-error] slave db  down.
+
+2019-11-14 20:16:48,944 ERROR [db-error] slave db  down.
+
+2019-11-14 20:17:02,935 ERROR [db-error] slave db  down.
+
+2019-11-14 20:17:16,958 ERROR [db-error] slave db  down.
+
+2019-11-14 20:17:30,974 ERROR [db-error] slave db  down.
+
+2019-11-14 20:17:44,962 ERROR [db-error] slave db  down.
+
+2019-11-14 20:17:58,975 ERROR [db-error] slave db  down.
+
+2019-11-14 20:18:12,963 ERROR [db-error] slave db  down.
+
+2019-11-14 20:18:26,976 ERROR [db-error] slave db  down.
+
+2019-11-14 20:18:40,967 ERROR [db-error] slave db  down.
+
+2019-11-14 20:18:54,976 ERROR [db-error] slave db  down.
+
+2019-11-14 20:19:08,959 ERROR [db-error] slave db  down.
+
+2019-11-14 20:19:22,967 ERROR [db-error] slave db  down.
+
+2019-11-14 20:19:36,953 ERROR [db-error] slave db  down.
+
+2019-11-14 20:19:50,962 ERROR [db-error] slave db  down.
+
+2019-11-14 20:20:04,950 ERROR [db-error] slave db  down.
+
+2019-11-14 20:20:18,961 ERROR [db-error] slave db  down.
+
+2019-11-14 20:20:32,949 ERROR [db-error] slave db  down.
+
+2019-11-14 20:20:46,956 ERROR [db-error] slave db  down.
+
+2019-11-14 20:21:00,970 ERROR [db-error] slave db  down.
+
+2019-11-14 20:21:14,957 ERROR [db-error] slave db  down.
+
+2019-11-14 20:21:28,966 ERROR [db-error] slave db  down.
+
+2019-11-14 20:21:42,959 ERROR [db-error] slave db  down.
+
+2019-11-14 20:21:56,974 ERROR [db-error] slave db  down.
+
+2019-11-14 20:22:10,962 ERROR [db-error] slave db  down.
+
+2019-11-14 20:22:24,977 ERROR [db-error] slave db  down.
+
+2019-11-14 20:22:38,964 ERROR [db-error] slave db  down.
+
+2019-11-14 20:22:52,973 ERROR [db-error] slave db  down.
+
+2019-11-14 20:23:06,972 ERROR [db-error] slave db  down.
+
+2019-11-14 20:23:20,977 ERROR [db-error] slave db  down.
+
+2019-11-14 20:23:34,964 ERROR [db-error] slave db  down.
+
+2019-11-14 20:23:48,975 ERROR [db-error] slave db  down.
+
+2019-11-14 20:24:02,961 ERROR [db-error] slave db  down.
+
+2019-11-14 20:24:16,974 ERROR [db-error] slave db  down.
+
+2019-11-14 20:24:30,987 ERROR [db-error] slave db  down.
+
+2019-11-14 20:24:44,974 ERROR [db-error] slave db  down.
+
+2019-11-14 20:24:58,989 ERROR [db-error] slave db  down.
+
+2019-11-14 20:25:12,978 ERROR [db-error] slave db  down.
+
+2019-11-14 20:25:26,987 ERROR [db-error] slave db  down.
+
+2019-11-14 20:25:40,976 ERROR [db-error] slave db  down.
+
+2019-11-14 20:25:54,985 ERROR [db-error] slave db  down.
+
+2019-11-14 20:26:08,974 ERROR [db-error] slave db  down.
+
+2019-11-14 20:26:22,987 ERROR [db-error] slave db  down.
+
+2019-11-14 20:26:36,972 ERROR [db-error] slave db  down.
+
+2019-11-14 20:26:50,978 ERROR [db-error] slave db  down.
+
+2019-11-14 20:27:04,964 ERROR [db-error] slave db  down.
+
+2019-11-14 20:27:18,976 ERROR [db-error] slave db  down.
+
+2019-11-14 20:27:32,963 ERROR [db-error] slave db  down.
+
+2019-11-14 20:27:46,968 ERROR [db-error] slave db  down.
+
+2019-11-14 20:28:00,975 ERROR [db-error] slave db  down.
+
+2019-11-14 20:28:14,958 ERROR [db-error] slave db  down.
+
+2019-11-14 20:28:28,968 ERROR [db-error] slave db  down.
+
+2019-11-14 20:28:42,956 ERROR [db-error] slave db  down.
+
+2019-11-14 20:28:56,967 ERROR [db-error] slave db  down.
+
+2019-11-14 20:29:10,954 ERROR [db-error] slave db  down.
+
+2019-11-14 20:29:24,959 ERROR [db-error] slave db  down.
+
+2019-11-14 20:29:38,942 ERROR [db-error] slave db  down.
+
+2019-11-14 20:29:52,949 ERROR [db-error] slave db  down.
+
+2019-11-14 20:30:06,934 ERROR [db-error] slave db  down.
+
+2019-11-14 20:30:20,943 ERROR [db-error] slave db  down.
+
+2019-11-14 20:30:34,928 ERROR [db-error] slave db  down.
+
+2019-11-14 20:30:48,938 ERROR [db-error] slave db  down.
+
+2019-11-14 20:31:02,927 ERROR [db-error] slave db  down.
+
+2019-11-14 20:31:16,935 ERROR [db-error] slave db  down.
+
+2019-11-14 20:31:30,941 ERROR [db-error] slave db  down.
+
+2019-11-14 20:31:44,928 ERROR [db-error] slave db  down.
+
+2019-11-14 20:31:58,934 ERROR [db-error] slave db  down.
+
+2019-11-14 20:32:12,918 ERROR [db-error] slave db  down.
+
+2019-11-14 20:32:26,927 ERROR [db-error] slave db  down.
+
+2019-11-14 20:32:40,915 ERROR [db-error] slave db  down.
+
+2019-11-14 20:32:54,922 ERROR [db-error] slave db  down.
+
+2019-11-14 20:33:08,907 ERROR [db-error] slave db  down.
+
+2019-11-14 20:33:22,927 ERROR [db-error] slave db  down.
+
+2019-11-14 20:33:36,909 ERROR [db-error] slave db  down.
+
+2019-11-14 20:33:50,916 ERROR [db-error] slave db  down.
+
+2019-11-14 20:34:04,902 ERROR [db-error] slave db  down.
+
+2019-11-14 20:34:18,908 ERROR [db-error] slave db  down.
+
+2019-11-14 20:34:32,894 ERROR [db-error] slave db  down.
+
+2019-11-14 20:34:46,900 ERROR [db-error] slave db  down.
+
+2019-11-14 20:35:00,910 ERROR [db-error] slave db  down.
+
+2019-11-14 20:35:14,893 ERROR [db-error] slave db  down.
+
+2019-11-14 20:35:28,900 ERROR [db-error] slave db  down.
+
+2019-11-14 20:35:42,886 ERROR [db-error] slave db  down.
+
+2019-11-14 20:35:56,892 ERROR [db-error] slave db  down.
+
+2019-11-14 20:36:10,876 ERROR [db-error] slave db  down.
+
+2019-11-14 20:36:24,895 ERROR [db-error] slave db  down.
+
+2019-11-14 20:36:38,879 ERROR [db-error] slave db  down.
+
+2019-11-14 20:36:52,884 ERROR [db-error] slave db  down.
+
+2019-11-14 20:37:06,870 ERROR [db-error] slave db  down.
+
+2019-11-14 20:37:20,876 ERROR [db-error] slave db  down.
+
+2019-11-14 20:37:34,860 ERROR [db-error] slave db  down.
+
+2019-11-14 20:37:48,873 ERROR [db-error] slave db  down.
+
+2019-11-14 20:38:02,860 ERROR [db-error] slave db  down.
+
+2019-11-14 20:38:16,869 ERROR [db-error] slave db  down.
+
+2019-11-14 20:38:30,877 ERROR [db-error] slave db  down.
+
+2019-11-14 20:38:44,860 ERROR [db-error] slave db  down.
+
+2019-11-14 20:38:58,870 ERROR [db-error] slave db  down.
+
+2019-11-14 20:39:12,859 ERROR [db-error] slave db  down.
+
+2019-11-14 20:39:26,867 ERROR [db-error] slave db  down.
+
+2019-11-14 20:39:40,854 ERROR [db-error] slave db  down.
+
+2019-11-14 20:39:54,860 ERROR [db-error] slave db  down.
+
+2019-11-14 20:40:08,845 ERROR [db-error] slave db  down.
+
+2019-11-14 20:40:22,851 ERROR [db-error] slave db  down.
+
+2019-11-14 20:40:36,848 ERROR [db-error] slave db  down.
+
+2019-11-14 20:40:50,854 ERROR [db-error] slave db  down.
+
+2019-11-14 20:41:04,841 ERROR [db-error] slave db  down.
+
+2019-11-14 20:41:18,850 ERROR [db-error] slave db  down.
+
+2019-11-14 20:41:32,838 ERROR [db-error] slave db  down.
+
+2019-11-14 20:41:46,848 ERROR [db-error] slave db  down.
+
+2019-11-14 20:42:00,858 ERROR [db-error] slave db  down.
+
+2019-11-14 20:42:14,842 ERROR [db-error] slave db  down.
+
+2019-11-14 20:42:28,850 ERROR [db-error] slave db  down.
+
+2019-11-14 20:42:42,838 ERROR [db-error] slave db  down.
+
+2019-11-14 20:42:56,849 ERROR [db-error] slave db  down.
+
+2019-11-14 20:43:10,837 ERROR [db-error] slave db  down.
+
+2019-11-14 20:43:24,848 ERROR [db-error] slave db  down.
+
+2019-11-14 20:43:38,835 ERROR [db-error] slave db  down.
+
+2019-11-14 20:43:52,842 ERROR [db-error] slave db  down.
+
+2019-11-14 20:44:06,828 ERROR [db-error] slave db  down.
+
+2019-11-14 20:44:20,835 ERROR [db-error] slave db  down.
+
+2019-11-14 20:44:34,820 ERROR [db-error] slave db  down.
+
+2019-11-14 20:44:48,829 ERROR [db-error] slave db  down.
+
+2019-11-14 20:45:02,814 ERROR [db-error] slave db  down.
+
+2019-11-14 20:45:16,821 ERROR [db-error] slave db  down.
+
+2019-11-14 20:45:30,826 ERROR [db-error] slave db  down.
+
+2019-11-14 20:45:44,811 ERROR [db-error] slave db  down.
+
+2019-11-14 20:45:58,822 ERROR [db-error] slave db  down.
+
+2019-11-14 20:46:12,807 ERROR [db-error] slave db  down.
+
+2019-11-14 20:46:26,815 ERROR [db-error] slave db  down.
+
+2019-11-14 20:46:40,802 ERROR [db-error] slave db  down.
+
+2019-11-14 20:46:54,812 ERROR [db-error] slave db  down.
+
+2019-11-14 20:47:08,799 ERROR [db-error] slave db  down.
+
+2019-11-14 20:47:22,807 ERROR [db-error] slave db  down.
+
+2019-11-14 20:47:36,797 ERROR [db-error] slave db  down.
+
+2019-11-14 20:47:50,803 ERROR [db-error] slave db  down.
+
+2019-11-14 20:48:04,792 ERROR [db-error] slave db  down.
+
+2019-11-14 20:48:18,805 ERROR [db-error] slave db  down.
+
+2019-11-14 20:48:32,788 ERROR [db-error] slave db  down.
+
+2019-11-14 20:48:46,796 ERROR [db-error] slave db  down.
+
+2019-11-14 20:49:00,802 ERROR [db-error] slave db  down.
+
+2019-11-14 20:49:14,788 ERROR [db-error] slave db  down.
+
+2019-11-14 20:49:28,795 ERROR [db-error] slave db  down.
+
+2019-11-14 20:49:42,782 ERROR [db-error] slave db  down.
+
+2019-11-14 20:49:56,795 ERROR [db-error] slave db  down.
+
+2019-11-14 20:50:10,778 ERROR [db-error] slave db  down.
+
+2019-11-14 20:50:24,785 ERROR [db-error] slave db  down.
+
+2019-11-14 20:50:38,769 ERROR [db-error] slave db  down.
+
+2019-11-14 20:50:52,776 ERROR [db-error] slave db  down.
+
+2019-11-14 20:51:06,760 ERROR [db-error] slave db  down.
+
+2019-11-14 20:51:20,767 ERROR [db-error] slave db  down.
+
+2019-11-14 20:51:34,750 ERROR [db-error] slave db  down.
+
+2019-11-14 20:51:48,758 ERROR [db-error] slave db  down.
+
+2019-11-14 20:52:02,748 ERROR [db-error] slave db  down.
+
+2019-11-14 20:52:16,757 ERROR [db-error] slave db  down.
+
+2019-11-14 20:52:30,764 ERROR [db-error] slave db  down.
+
+2019-11-14 20:52:44,748 ERROR [db-error] slave db  down.
+
+2019-11-14 20:52:58,759 ERROR [db-error] slave db  down.
+
+2019-11-14 20:53:12,744 ERROR [db-error] slave db  down.
+
+2019-11-14 20:53:26,753 ERROR [db-error] slave db  down.
+
+2019-11-14 20:53:40,737 ERROR [db-error] slave db  down.
+
+2019-11-14 20:53:54,746 ERROR [db-error] slave db  down.
+
+2019-11-14 20:54:08,729 ERROR [db-error] slave db  down.
+
+2019-11-14 20:54:22,745 ERROR [db-error] slave db  down.
+
+2019-11-14 20:54:36,730 ERROR [db-error] slave db  down.
+
+2019-11-14 20:54:50,741 ERROR [db-error] slave db  down.
+
+2019-11-14 20:55:04,727 ERROR [db-error] slave db  down.
+
+2019-11-14 20:55:18,732 ERROR [db-error] slave db  down.
+
+2019-11-14 20:55:32,715 ERROR [db-error] slave db  down.
+
+2019-11-14 20:55:46,720 ERROR [db-error] slave db  down.
+
+2019-11-14 20:56:00,727 ERROR [db-error] slave db  down.
+
+2019-11-14 20:56:14,711 ERROR [db-error] slave db  down.
+
+2019-11-14 20:56:28,717 ERROR [db-error] slave db  down.
+
+2019-11-14 20:56:42,702 ERROR [db-error] slave db  down.
+
+2019-11-14 20:56:56,708 ERROR [db-error] slave db  down.
+
+2019-11-14 20:57:10,691 ERROR [db-error] slave db  down.
+
+2019-11-14 20:57:24,700 ERROR [db-error] slave db  down.
+
+2019-11-14 20:57:38,685 ERROR [db-error] slave db  down.
+
+2019-11-14 20:57:52,691 ERROR [db-error] slave db  down.
+
+2019-11-14 20:58:06,677 ERROR [db-error] slave db  down.
+
+2019-11-14 20:58:20,688 ERROR [db-error] slave db  down.
+
+2019-11-14 20:58:34,672 ERROR [db-error] slave db  down.
+
+2019-11-14 20:58:48,680 ERROR [db-error] slave db  down.
+
+2019-11-14 20:59:02,665 ERROR [db-error] slave db  down.
+
+2019-11-14 20:59:16,672 ERROR [db-error] slave db  down.
+
+2019-11-14 20:59:30,679 ERROR [db-error] slave db  down.
+
+2019-11-14 20:59:44,666 ERROR [db-error] slave db  down.
+
+2019-11-14 20:59:58,672 ERROR [db-error] slave db  down.
+
+2019-11-14 21:00:12,661 ERROR [db-error] slave db  down.
+
+2019-11-14 21:00:26,668 ERROR [db-error] slave db  down.
+
+2019-11-14 21:00:40,653 ERROR [db-error] slave db  down.
+
+2019-11-14 21:00:54,661 ERROR [db-error] slave db  down.
+
+2019-11-14 21:01:08,644 ERROR [db-error] slave db  down.
+
+2019-11-14 21:01:22,651 ERROR [db-error] slave db  down.
+
+2019-11-14 21:01:36,638 ERROR [db-error] slave db  down.
+
+2019-11-14 21:01:50,644 ERROR [db-error] slave db  down.
+
+2019-11-14 21:02:04,633 ERROR [db-error] slave db  down.
+
+2019-11-14 21:02:18,644 ERROR [db-error] slave db  down.
+
+2019-11-14 21:02:32,628 ERROR [db-error] slave db  down.
+
+2019-11-14 21:02:46,635 ERROR [db-error] slave db  down.
+
+2019-11-14 21:03:00,627 ERROR [db-error] slave db  down.
+
+2019-11-14 21:03:14,637 ERROR [db-error] slave db  down.
+
+2019-11-14 21:03:28,644 ERROR [db-error] slave db  down.
+
+2019-11-14 21:03:42,628 ERROR [db-error] slave db  down.
+
+2019-11-14 21:03:56,639 ERROR [db-error] slave db  down.
+
+2019-11-14 21:04:10,625 ERROR [db-error] slave db  down.
+
+2019-11-14 21:04:24,632 ERROR [db-error] slave db  down.
+
+2019-11-14 21:04:38,615 ERROR [db-error] slave db  down.
+
+2019-11-14 21:04:52,620 ERROR [db-error] slave db  down.
+
+2019-11-14 21:05:06,606 ERROR [db-error] slave db  down.
+
+2019-11-14 21:05:20,619 ERROR [db-error] slave db  down.
+
+2019-11-14 21:05:34,604 ERROR [db-error] slave db  down.
+
+2019-11-14 21:05:48,610 ERROR [db-error] slave db  down.
+
+2019-11-14 21:06:02,598 ERROR [db-error] slave db  down.
+
+2019-11-14 21:06:16,603 ERROR [db-error] slave db  down.
+
+2019-11-14 21:06:30,590 ERROR [db-error] slave db  down.
+
+2019-11-14 21:06:44,596 ERROR [db-error] slave db  down.
+
+2019-11-14 21:06:58,604 ERROR [db-error] slave db  down.
+
+2019-11-14 21:07:12,588 ERROR [db-error] slave db  down.
+
+2019-11-14 21:07:26,595 ERROR [db-error] slave db  down.
+
+2019-11-14 21:07:40,583 ERROR [db-error] slave db  down.
+
+2019-11-14 21:07:54,588 ERROR [db-error] slave db  down.
+
+2019-11-14 21:08:08,572 ERROR [db-error] slave db  down.
+
+2019-11-14 21:08:22,580 ERROR [db-error] slave db  down.
+
+2019-11-14 21:08:36,565 ERROR [db-error] slave db  down.
+
+2019-11-14 21:08:50,572 ERROR [db-error] slave db  down.
+
+2019-11-14 21:09:04,561 ERROR [db-error] slave db  down.
+
+2019-11-14 21:09:18,567 ERROR [db-error] slave db  down.
+
+2019-11-14 21:09:32,551 ERROR [db-error] slave db  down.
+
+2019-11-14 21:09:46,558 ERROR [db-error] slave db  down.
+
+2019-11-14 21:10:00,543 ERROR [db-error] slave db  down.
+
+2019-11-14 21:10:14,549 ERROR [db-error] slave db  down.
+
+2019-11-14 21:10:28,556 ERROR [db-error] slave db  down.
+
+2019-11-14 21:10:42,544 ERROR [db-error] slave db  down.
+
+2019-11-14 21:10:56,550 ERROR [db-error] slave db  down.
+
+2019-11-14 21:11:10,536 ERROR [db-error] slave db  down.
+
+2019-11-14 21:11:24,544 ERROR [db-error] slave db  down.
+
+2019-11-14 21:11:38,530 ERROR [db-error] slave db  down.
+
+2019-11-14 21:11:52,541 ERROR [db-error] slave db  down.
+
+2019-11-14 21:12:06,529 ERROR [db-error] slave db  down.
+
+2019-11-14 21:12:20,535 ERROR [db-error] slave db  down.
+
+2019-11-14 21:12:34,524 ERROR [db-error] slave db  down.
+
+2019-11-14 21:12:48,534 ERROR [db-error] slave db  down.
+
+2019-11-14 21:13:02,519 ERROR [db-error] slave db  down.
+
+2019-11-14 21:13:16,524 ERROR [db-error] slave db  down.
+
+2019-11-14 21:13:30,508 ERROR [db-error] slave db  down.
+
+2019-11-14 21:13:44,515 ERROR [db-error] slave db  down.
+
+2019-11-14 21:13:58,521 ERROR [db-error] slave db  down.
+
+2019-11-14 21:14:12,510 ERROR [db-error] slave db  down.
+
+2019-11-14 21:14:26,523 ERROR [db-error] slave db  down.
+
+2019-11-14 21:14:40,508 ERROR [db-error] slave db  down.
+
+2019-11-14 21:14:54,512 ERROR [db-error] slave db  down.
+
+2019-11-14 21:15:08,495 ERROR [db-error] slave db  down.
+
+2019-11-14 21:15:22,500 ERROR [db-error] slave db  down.
+
+2019-11-14 21:15:36,487 ERROR [db-error] slave db  down.
+
+2019-11-14 21:15:50,494 ERROR [db-error] slave db  down.
+
+2019-11-14 21:16:04,479 ERROR [db-error] slave db  down.
+
+2019-11-14 21:16:18,486 ERROR [db-error] slave db  down.
+
+2019-11-14 21:16:32,470 ERROR [db-error] slave db  down.
+
+2019-11-14 21:16:46,481 ERROR [db-error] slave db  down.
+
+2019-11-14 21:17:00,466 ERROR [db-error] slave db  down.
+
+2019-11-14 21:17:14,478 ERROR [db-error] slave db  down.
+
+2019-11-14 21:17:28,485 ERROR [db-error] slave db  down.
+
+2019-11-14 21:17:42,473 ERROR [db-error] slave db  down.
+
+2019-11-14 21:17:56,480 ERROR [db-error] slave db  down.
+
+2019-11-14 21:18:10,464 ERROR [db-error] slave db  down.
+
+2019-11-14 21:18:24,477 ERROR [db-error] slave db  down.
+
+2019-11-14 21:18:38,462 ERROR [db-error] slave db  down.
+
+2019-11-14 21:18:52,467 ERROR [db-error] slave db  down.
+
+2019-11-14 21:19:06,466 ERROR [db-error] slave db  down.
+
+2019-11-14 21:19:20,476 ERROR [db-error] slave db  down.
+
+2019-11-14 21:19:34,459 ERROR [db-error] slave db  down.
+
+2019-11-14 21:19:48,468 ERROR [db-error] slave db  down.
+
+2019-11-14 21:20:02,454 ERROR [db-error] slave db  down.
+
+2019-11-14 21:20:16,462 ERROR [db-error] slave db  down.
+
+2019-11-14 21:20:30,447 ERROR [db-error] slave db  down.
+
+2019-11-14 21:20:44,456 ERROR [db-error] slave db  down.
+
+2019-11-14 21:20:58,465 ERROR [db-error] slave db  down.
+
+2019-11-14 21:21:12,451 ERROR [db-error] slave db  down.
+
+2019-11-14 21:21:26,461 ERROR [db-error] slave db  down.
+
+2019-11-14 21:21:40,446 ERROR [db-error] slave db  down.
+
+2019-11-14 21:21:54,454 ERROR [db-error] slave db  down.
+
+2019-11-14 21:22:08,444 ERROR [db-error] slave db  down.
+
+2019-11-14 21:22:22,451 ERROR [db-error] slave db  down.
+
+2019-11-14 21:22:36,436 ERROR [db-error] slave db  down.
+
+2019-11-14 21:22:50,442 ERROR [db-error] slave db  down.
+
+2019-11-14 21:23:04,429 ERROR [db-error] slave db  down.
+
+2019-11-14 21:23:18,433 ERROR [db-error] slave db  down.
+
+2019-11-14 21:23:32,419 ERROR [db-error] slave db  down.
+
+2019-11-14 21:23:46,425 ERROR [db-error] slave db  down.
+
+2019-11-14 21:24:00,408 ERROR [db-error] slave db  down.
+
+2019-11-14 21:24:14,414 ERROR [db-error] slave db  down.
+
+2019-11-14 21:24:28,422 ERROR [db-error] slave db  down.
+
+2019-11-14 21:24:42,411 ERROR [db-error] slave db  down.
+
+2019-11-14 21:24:56,420 ERROR [db-error] slave db  down.
+
+2019-11-14 21:25:10,405 ERROR [db-error] slave db  down.
+
+2019-11-14 21:25:24,410 ERROR [db-error] slave db  down.
+
+2019-11-14 21:25:38,396 ERROR [db-error] slave db  down.
+
+2019-11-14 21:25:52,402 ERROR [db-error] slave db  down.
+
+2019-11-14 21:26:06,385 ERROR [db-error] slave db  down.
+
+2019-11-14 21:26:20,392 ERROR [db-error] slave db  down.
+
+2019-11-14 21:26:34,375 ERROR [db-error] slave db  down.
+
+2019-11-14 21:26:48,381 ERROR [db-error] slave db  down.
+
+2019-11-14 21:27:02,364 ERROR [db-error] slave db  down.
+
+2019-11-14 21:27:16,374 ERROR [db-error] slave db  down.
+
+2019-11-14 21:27:30,361 ERROR [db-error] slave db  down.
+
+2019-11-14 21:27:44,370 ERROR [db-error] slave db  down.
+
+2019-11-14 21:27:58,377 ERROR [db-error] slave db  down.
+
+2019-11-14 21:28:12,364 ERROR [db-error] slave db  down.
+
+2019-11-14 21:28:26,372 ERROR [db-error] slave db  down.
+
+2019-11-14 21:28:40,362 ERROR [db-error] slave db  down.
+
+2019-11-14 21:28:54,369 ERROR [db-error] slave db  down.
+
+2019-11-14 21:29:08,352 ERROR [db-error] slave db  down.
+
+2019-11-14 21:29:22,359 ERROR [db-error] slave db  down.
+
+2019-11-14 21:29:36,347 ERROR [db-error] slave db  down.
+
+2019-11-14 21:29:50,353 ERROR [db-error] slave db  down.
+
+2019-11-14 21:30:04,337 ERROR [db-error] slave db  down.
+
+2019-11-14 21:30:18,342 ERROR [db-error] slave db  down.
+
+2019-11-14 21:30:32,331 ERROR [db-error] slave db  down.
+
+2019-11-14 21:30:46,340 ERROR [db-error] slave db  down.
+
+2019-11-14 21:31:00,327 ERROR [db-error] slave db  down.
+
+2019-11-14 21:31:14,333 ERROR [db-error] slave db  down.
+
+2019-11-14 21:31:28,340 ERROR [db-error] slave db  down.
+
+2019-11-14 21:31:42,326 ERROR [db-error] slave db  down.
+
+2019-11-14 21:31:56,334 ERROR [db-error] slave db  down.
+
+2019-11-14 21:32:10,327 ERROR [db-error] slave db  down.
+
+2019-11-14 21:32:24,339 ERROR [db-error] slave db  down.
+
+2019-11-14 21:32:38,322 ERROR [db-error] slave db  down.
+
+2019-11-14 21:32:52,330 ERROR [db-error] slave db  down.
+
+2019-11-14 21:33:06,315 ERROR [db-error] slave db  down.
+
+2019-11-14 21:33:20,320 ERROR [db-error] slave db  down.
+
+2019-11-14 21:33:34,304 ERROR [db-error] slave db  down.
+
+2019-11-14 21:33:48,311 ERROR [db-error] slave db  down.
+
+2019-11-14 21:34:02,297 ERROR [db-error] slave db  down.
+
+2019-11-14 21:34:16,303 ERROR [db-error] slave db  down.
+
+2019-11-14 21:34:30,289 ERROR [db-error] slave db  down.
+
+2019-11-14 21:34:44,294 ERROR [db-error] slave db  down.
+
+2019-11-14 21:34:58,299 ERROR [db-error] slave db  down.
+
+2019-11-14 21:35:12,282 ERROR [db-error] slave db  down.
+
+2019-11-14 21:35:26,293 ERROR [db-error] slave db  down.
+
+2019-11-14 21:35:40,277 ERROR [db-error] slave db  down.
+
+2019-11-14 21:35:54,285 ERROR [db-error] slave db  down.
+
+2019-11-14 21:36:08,270 ERROR [db-error] slave db  down.
+
+2019-11-14 21:36:22,278 ERROR [db-error] slave db  down.
+
+2019-11-14 21:36:36,261 ERROR [db-error] slave db  down.
+
+2019-11-14 21:36:50,267 ERROR [db-error] slave db  down.
+
+2019-11-14 21:37:04,252 ERROR [db-error] slave db  down.
+
+2019-11-14 21:37:18,259 ERROR [db-error] slave db  down.
+
+2019-11-14 21:37:32,243 ERROR [db-error] slave db  down.
+
+2019-11-14 21:37:46,248 ERROR [db-error] slave db  down.
+
+2019-11-14 21:38:00,236 ERROR [db-error] slave db  down.
+
+2019-11-14 21:38:14,241 ERROR [db-error] slave db  down.
+
+2019-11-14 21:38:28,249 ERROR [db-error] slave db  down.
+
+2019-11-14 21:38:42,236 ERROR [db-error] slave db  down.
+
+2019-11-14 21:38:56,241 ERROR [db-error] slave db  down.
+
+2019-11-14 21:39:10,224 ERROR [db-error] slave db  down.
+
+2019-11-14 21:39:24,231 ERROR [db-error] slave db  down.
+
+2019-11-14 21:39:38,215 ERROR [db-error] slave db  down.
+
+2019-11-14 21:39:52,224 ERROR [db-error] slave db  down.
+
+2019-11-14 21:40:06,210 ERROR [db-error] slave db  down.
+
+2019-11-14 21:40:20,217 ERROR [db-error] slave db  down.
+
+2019-11-14 21:40:34,202 ERROR [db-error] slave db  down.
+
+2019-11-14 21:40:48,209 ERROR [db-error] slave db  down.
+
+2019-11-14 21:41:02,192 ERROR [db-error] slave db  down.
+
+2019-11-14 21:41:16,202 ERROR [db-error] slave db  down.
+
+2019-11-14 21:41:30,189 ERROR [db-error] slave db  down.
+
+2019-11-14 21:41:44,195 ERROR [db-error] slave db  down.
+
+2019-11-14 21:41:58,201 ERROR [db-error] slave db  down.
+
+2019-11-14 21:42:12,187 ERROR [db-error] slave db  down.
+
+2019-11-14 21:42:26,195 ERROR [db-error] slave db  down.
+
+2019-11-14 21:42:40,179 ERROR [db-error] slave db  down.
+
+2019-11-14 21:42:54,186 ERROR [db-error] slave db  down.
+
+2019-11-14 21:43:08,169 ERROR [db-error] slave db  down.
+
+2019-11-14 21:43:22,176 ERROR [db-error] slave db  down.
+
+2019-11-14 21:43:36,162 ERROR [db-error] slave db  down.
+
+2019-11-14 21:43:50,171 ERROR [db-error] slave db  down.
+
+2019-11-14 21:44:04,155 ERROR [db-error] slave db  down.
+
+2019-11-14 21:44:18,165 ERROR [db-error] slave db  down.
+
+2019-11-14 21:44:32,156 ERROR [db-error] slave db  down.
+
+2019-11-14 21:44:46,162 ERROR [db-error] slave db  down.
+
+2019-11-14 21:45:00,149 ERROR [db-error] slave db  down.
+
+2019-11-14 21:45:14,156 ERROR [db-error] slave db  down.
+
+2019-11-14 21:45:28,162 ERROR [db-error] slave db  down.
+
+2019-11-14 21:45:42,146 ERROR [db-error] slave db  down.
+
+2019-11-14 21:45:56,152 ERROR [db-error] slave db  down.
+
+2019-11-14 21:46:10,135 ERROR [db-error] slave db  down.
+
+2019-11-14 21:46:24,142 ERROR [db-error] slave db  down.
+
+2019-11-14 21:46:38,125 ERROR [db-error] slave db  down.
+
+2019-11-14 21:46:52,133 ERROR [db-error] slave db  down.
+
+2019-11-14 21:47:06,120 ERROR [db-error] slave db  down.
+
+2019-11-14 21:47:20,129 ERROR [db-error] slave db  down.
+
+2019-11-14 21:47:34,114 ERROR [db-error] slave db  down.
+
+2019-11-14 21:47:48,123 ERROR [db-error] slave db  down.
+
+2019-11-14 21:48:02,108 ERROR [db-error] slave db  down.
+
+2019-11-14 21:48:16,115 ERROR [db-error] slave db  down.
+
+2019-11-14 21:48:30,104 ERROR [db-error] slave db  down.
+
+2019-11-14 21:48:44,112 ERROR [db-error] slave db  down.
+
+2019-11-14 21:48:58,117 ERROR [db-error] slave db  down.
+
+2019-11-14 21:49:12,101 ERROR [db-error] slave db  down.
+
+2019-11-14 21:49:26,111 ERROR [db-error] slave db  down.
+
+2019-11-14 21:49:40,098 ERROR [db-error] slave db  down.
+
+2019-11-14 21:49:54,107 ERROR [db-error] slave db  down.
+
+2019-11-14 21:50:08,091 ERROR [db-error] slave db  down.
+
+2019-11-14 21:50:22,098 ERROR [db-error] slave db  down.
+
+2019-11-14 21:50:36,082 ERROR [db-error] slave db  down.
+
+2019-11-14 21:50:50,089 ERROR [db-error] slave db  down.
+
+2019-11-14 21:51:04,073 ERROR [db-error] slave db  down.
+
+2019-11-14 21:51:18,080 ERROR [db-error] slave db  down.
+
+2019-11-14 21:51:32,067 ERROR [db-error] slave db  down.
+
+2019-11-14 21:51:46,073 ERROR [db-error] slave db  down.
+
+2019-11-14 21:52:00,063 ERROR [db-error] slave db  down.
+
+2019-11-14 21:52:14,074 ERROR [db-error] slave db  down.
+
+2019-11-14 21:52:28,079 ERROR [db-error] slave db  down.
+
+2019-11-14 21:52:42,069 ERROR [db-error] slave db  down.
+
+2019-11-14 21:52:56,075 ERROR [db-error] slave db  down.
+
+2019-11-14 21:53:10,060 ERROR [db-error] slave db  down.
+
+2019-11-14 21:53:24,069 ERROR [db-error] slave db  down.
+
+2019-11-14 21:53:38,055 ERROR [db-error] slave db  down.
+
+2019-11-14 21:53:52,059 ERROR [db-error] slave db  down.
+
+2019-11-14 21:54:06,044 ERROR [db-error] slave db  down.
+
+2019-11-14 21:54:20,048 ERROR [db-error] slave db  down.
+
+2019-11-14 21:54:34,032 ERROR [db-error] slave db  down.
+
+2019-11-14 21:54:48,039 ERROR [db-error] slave db  down.
+
+2019-11-14 21:55:02,022 ERROR [db-error] slave db  down.
+
+2019-11-14 21:55:16,029 ERROR [db-error] slave db  down.
+
+2019-11-14 21:55:30,014 ERROR [db-error] slave db  down.
+
+2019-11-14 21:55:44,019 ERROR [db-error] slave db  down.
+
+2019-11-14 21:55:58,024 ERROR [db-error] slave db  down.
+
+2019-11-14 21:56:12,008 ERROR [db-error] slave db  down.
+
+2019-11-14 21:56:26,015 ERROR [db-error] slave db  down.
+
+2019-11-14 21:56:39,998 ERROR [db-error] slave db  down.
+
+2019-11-14 21:56:54,008 ERROR [db-error] slave db  down.
+
+2019-11-14 21:57:07,993 ERROR [db-error] slave db  down.
+
+2019-11-14 21:57:22,000 ERROR [db-error] slave db  down.
+
+2019-11-14 21:57:35,984 ERROR [db-error] slave db  down.
+
+2019-11-14 21:57:49,996 ERROR [db-error] slave db  down.
+
+2019-11-14 21:58:03,981 ERROR [db-error] slave db  down.
+
+2019-11-14 21:58:17,990 ERROR [db-error] slave db  down.
+
+2019-11-14 21:58:31,973 ERROR [db-error] slave db  down.
+
+2019-11-14 21:58:45,980 ERROR [db-error] slave db  down.
+
+2019-11-14 21:58:59,968 ERROR [db-error] slave db  down.
+
+2019-11-14 21:59:13,980 ERROR [db-error] slave db  down.
+
+2019-11-14 21:59:27,987 ERROR [db-error] slave db  down.
+
+2019-11-14 21:59:41,974 ERROR [db-error] slave db  down.
+
+2019-11-14 21:59:55,990 ERROR [db-error] slave db  down.
+
+2019-11-14 22:00:09,979 ERROR [db-error] slave db  down.
+
+2019-11-14 22:00:23,986 ERROR [db-error] slave db  down.
+
+2019-11-14 22:00:37,970 ERROR [db-error] slave db  down.
+
+2019-11-14 22:00:51,978 ERROR [db-error] slave db  down.
+
+2019-11-14 22:01:05,962 ERROR [db-error] slave db  down.
+
+2019-11-14 22:01:19,967 ERROR [db-error] slave db  down.
+
+2019-11-14 22:01:33,952 ERROR [db-error] slave db  down.
+
+2019-11-14 22:01:47,960 ERROR [db-error] slave db  down.
+
+2019-11-14 22:02:01,943 ERROR [db-error] slave db  down.
+
+2019-11-14 22:02:15,953 ERROR [db-error] slave db  down.
+
+2019-11-14 22:02:29,941 ERROR [db-error] slave db  down.
+
+2019-11-14 22:02:43,947 ERROR [db-error] slave db  down.
+
+2019-11-14 22:02:57,954 ERROR [db-error] slave db  down.
+
+2019-11-14 22:03:11,942 ERROR [db-error] slave db  down.
+
+2019-11-14 22:03:25,950 ERROR [db-error] slave db  down.
+
+2019-11-14 22:03:39,936 ERROR [db-error] slave db  down.
+
+2019-11-14 22:03:53,944 ERROR [db-error] slave db  down.
+
+2019-11-14 22:04:07,935 ERROR [db-error] slave db  down.
+
+2019-11-14 22:04:21,944 ERROR [db-error] slave db  down.
+
+2019-11-14 22:04:35,933 ERROR [db-error] slave db  down.
+
+2019-11-14 22:04:49,939 ERROR [db-error] slave db  down.
+
+2019-11-14 22:05:03,925 ERROR [db-error] slave db  down.
+
+2019-11-14 22:05:17,932 ERROR [db-error] slave db  down.
+
+2019-11-14 22:05:31,920 ERROR [db-error] slave db  down.
+
+2019-11-14 22:05:45,928 ERROR [db-error] slave db  down.
+
+2019-11-14 22:05:59,913 ERROR [db-error] slave db  down.
+
+2019-11-14 22:06:13,920 ERROR [db-error] slave db  down.
+
+2019-11-14 22:06:27,927 ERROR [db-error] slave db  down.
+
+2019-11-14 22:06:41,917 ERROR [db-error] slave db  down.
+
+2019-11-14 22:06:55,927 ERROR [db-error] slave db  down.
+
+2019-11-14 22:07:09,914 ERROR [db-error] slave db  down.
+
+2019-11-14 22:07:23,921 ERROR [db-error] slave db  down.
+
+2019-11-14 22:07:37,906 ERROR [db-error] slave db  down.
+
+2019-11-14 22:07:51,916 ERROR [db-error] slave db  down.
+
+2019-11-14 22:08:05,903 ERROR [db-error] slave db  down.
+
+2019-11-14 22:08:19,914 ERROR [db-error] slave db  down.
+
+2019-11-14 22:08:33,903 ERROR [db-error] slave db  down.
+
+2019-11-14 22:08:47,913 ERROR [db-error] slave db  down.
+
+2019-11-14 22:09:01,895 ERROR [db-error] slave db  down.
+
+2019-11-14 22:09:15,902 ERROR [db-error] slave db  down.
+
+2019-11-14 22:09:29,893 ERROR [db-error] slave db  down.
+
+2019-11-14 22:09:43,900 ERROR [db-error] slave db  down.
+
+2019-11-14 22:09:57,906 ERROR [db-error] slave db  down.
+
+2019-11-14 22:10:11,894 ERROR [db-error] slave db  down.
+
+2019-11-14 22:10:25,904 ERROR [db-error] slave db  down.
+
+2019-11-14 22:10:39,887 ERROR [db-error] slave db  down.
+
+2019-11-14 22:10:53,895 ERROR [db-error] slave db  down.
+
+2019-11-14 22:11:07,884 ERROR [db-error] slave db  down.
+
+2019-11-14 22:11:21,896 ERROR [db-error] slave db  down.
+
+2019-11-14 22:11:35,882 ERROR [db-error] slave db  down.
+
+2019-11-14 22:11:49,891 ERROR [db-error] slave db  down.
+
+2019-11-14 22:12:03,875 ERROR [db-error] slave db  down.
+
+2019-11-14 22:12:17,882 ERROR [db-error] slave db  down.
+
+2019-11-14 22:12:31,867 ERROR [db-error] slave db  down.
+
+2019-11-14 22:12:45,878 ERROR [db-error] slave db  down.
+
+2019-11-14 22:12:59,871 ERROR [db-error] slave db  down.
+
+2019-11-14 22:13:13,876 ERROR [db-error] slave db  down.
+
+2019-11-14 22:13:27,887 ERROR [db-error] slave db  down.
+
+2019-11-14 22:13:41,876 ERROR [db-error] slave db  down.
+
+2019-11-14 22:13:55,887 ERROR [db-error] slave db  down.
+
+2019-11-14 22:14:09,875 ERROR [db-error] slave db  down.
+
+2019-11-14 22:14:23,884 ERROR [db-error] slave db  down.
+
+2019-11-14 22:14:37,868 ERROR [db-error] slave db  down.
+
+2019-11-14 22:14:51,875 ERROR [db-error] slave db  down.
+
+2019-11-14 22:15:05,866 ERROR [db-error] slave db  down.
+
+2019-11-14 22:15:19,873 ERROR [db-error] slave db  down.
+
+2019-11-14 22:15:33,868 ERROR [db-error] slave db  down.
+
+2019-11-14 22:15:47,873 ERROR [db-error] slave db  down.
+
+2019-11-14 22:16:01,858 ERROR [db-error] slave db  down.
+
+2019-11-14 22:16:15,863 ERROR [db-error] slave db  down.
+
+2019-11-14 22:16:29,851 ERROR [db-error] slave db  down.
+
+2019-11-14 22:16:43,858 ERROR [db-error] slave db  down.
+
+2019-11-14 22:16:57,845 ERROR [db-error] slave db  down.
+
+2019-11-14 22:17:11,852 ERROR [db-error] slave db  down.
+
+2019-11-14 22:17:25,861 ERROR [db-error] slave db  down.
+
+2019-11-14 22:17:39,846 ERROR [db-error] slave db  down.
+
+2019-11-14 22:17:53,854 ERROR [db-error] slave db  down.
+
+2019-11-14 22:18:07,841 ERROR [db-error] slave db  down.
+
+2019-11-14 22:18:21,848 ERROR [db-error] slave db  down.
+
+2019-11-14 22:18:35,833 ERROR [db-error] slave db  down.
+
+2019-11-14 22:18:49,842 ERROR [db-error] slave db  down.
+
+2019-11-14 22:19:03,826 ERROR [db-error] slave db  down.
+
+2019-11-14 22:19:17,830 ERROR [db-error] slave db  down.
+
+2019-11-14 22:19:31,814 ERROR [db-error] slave db  down.
+
+2019-11-14 22:19:45,821 ERROR [db-error] slave db  down.
+
+2019-11-14 22:19:59,804 ERROR [db-error] slave db  down.
+
+2019-11-14 22:20:13,811 ERROR [db-error] slave db  down.
+
+2019-11-14 22:20:27,796 ERROR [db-error] slave db  down.
+
+2019-11-14 22:20:41,801 ERROR [db-error] slave db  down.
+
+2019-11-14 22:20:55,817 ERROR [db-error] slave db  down.
+
+2019-11-14 22:21:09,804 ERROR [db-error] slave db  down.
+
+2019-11-14 22:21:23,812 ERROR [db-error] slave db  down.
+
+2019-11-14 22:21:37,797 ERROR [db-error] slave db  down.
+
+2019-11-14 22:21:51,805 ERROR [db-error] slave db  down.
+
+2019-11-14 22:22:05,793 ERROR [db-error] slave db  down.
+
+2019-11-14 22:22:19,809 ERROR [db-error] slave db  down.
+
+2019-11-14 22:22:33,796 ERROR [db-error] slave db  down.
+
+2019-11-14 22:22:47,811 ERROR [db-error] slave db  down.
+
+2019-11-14 22:23:01,798 ERROR [db-error] slave db  down.
+
+2019-11-14 22:23:15,805 ERROR [db-error] slave db  down.
+
+2019-11-14 22:23:29,791 ERROR [db-error] slave db  down.
+
+2019-11-14 22:23:43,799 ERROR [db-error] slave db  down.
+
+2019-11-14 22:23:57,791 ERROR [db-error] slave db  down.
+
+2019-11-14 22:24:11,801 ERROR [db-error] slave db  down.
+
+2019-11-14 22:24:25,808 ERROR [db-error] slave db  down.
+
+2019-11-14 22:24:39,792 ERROR [db-error] slave db  down.
+
+2019-11-14 22:24:53,798 ERROR [db-error] slave db  down.
+
+2019-11-14 22:25:07,784 ERROR [db-error] slave db  down.
+
+2019-11-14 22:25:21,794 ERROR [db-error] slave db  down.
+
+2019-11-14 22:25:35,782 ERROR [db-error] slave db  down.
+
+2019-11-14 22:25:49,791 ERROR [db-error] slave db  down.
+
+2019-11-14 22:26:03,777 ERROR [db-error] slave db  down.
+
+2019-11-14 22:26:17,784 ERROR [db-error] slave db  down.
+
+2019-11-14 22:26:31,770 ERROR [db-error] slave db  down.
+
+2019-11-14 22:26:45,776 ERROR [db-error] slave db  down.
+
+2019-11-14 22:26:59,765 ERROR [db-error] slave db  down.
+
+2019-11-14 22:27:13,770 ERROR [db-error] slave db  down.
+
+2019-11-14 22:27:27,759 ERROR [db-error] slave db  down.
+
+2019-11-14 22:27:41,766 ERROR [db-error] slave db  down.
+
+2019-11-14 22:27:55,772 ERROR [db-error] slave db  down.
+
+2019-11-14 22:28:09,758 ERROR [db-error] slave db  down.
+
+2019-11-14 22:28:23,765 ERROR [db-error] slave db  down.
+
+2019-11-14 22:28:37,749 ERROR [db-error] slave db  down.
+
+2019-11-14 22:28:51,755 ERROR [db-error] slave db  down.
+
+2019-11-14 22:29:05,739 ERROR [db-error] slave db  down.
+
+2019-11-14 22:29:19,747 ERROR [db-error] slave db  down.
+
+2019-11-14 22:29:33,734 ERROR [db-error] slave db  down.
+
+2019-11-14 22:29:47,747 ERROR [db-error] slave db  down.
+
+2019-11-14 22:30:01,731 ERROR [db-error] slave db  down.
+
+2019-11-14 22:30:15,736 ERROR [db-error] slave db  down.
+
+2019-11-14 22:30:29,721 ERROR [db-error] slave db  down.
+
+2019-11-14 22:30:43,728 ERROR [db-error] slave db  down.
+
+2019-11-14 22:30:57,713 ERROR [db-error] slave db  down.
+
+2019-11-14 22:31:11,722 ERROR [db-error] slave db  down.
+
+2019-11-14 22:31:25,727 ERROR [db-error] slave db  down.
+
+2019-11-14 22:31:39,714 ERROR [db-error] slave db  down.
+
+2019-11-14 22:31:53,723 ERROR [db-error] slave db  down.
+
+2019-11-14 22:32:07,707 ERROR [db-error] slave db  down.
+
+2019-11-14 22:32:21,714 ERROR [db-error] slave db  down.
+
+2019-11-14 22:32:35,700 ERROR [db-error] slave db  down.
+
+2019-11-14 22:32:49,710 ERROR [db-error] slave db  down.
+
+2019-11-14 22:33:03,694 ERROR [db-error] slave db  down.
+
+2019-11-14 22:33:17,700 ERROR [db-error] slave db  down.
+
+2019-11-14 22:33:31,686 ERROR [db-error] slave db  down.
+
+2019-11-14 22:33:45,695 ERROR [db-error] slave db  down.
+
+2019-11-14 22:33:59,681 ERROR [db-error] slave db  down.
+
+2019-11-14 22:34:13,690 ERROR [db-error] slave db  down.
+
+2019-11-14 22:34:27,675 ERROR [db-error] slave db  down.
+
+2019-11-14 22:34:41,682 ERROR [db-error] slave db  down.
+
+2019-11-14 22:34:55,699 ERROR [db-error] slave db  down.
+
+2019-11-14 22:35:09,687 ERROR [db-error] slave db  down.
+
+2019-11-14 22:35:23,696 ERROR [db-error] slave db  down.
+
+2019-11-14 22:35:37,688 ERROR [db-error] slave db  down.
+
+2019-11-14 22:35:51,700 ERROR [db-error] slave db  down.
+
+2019-11-14 22:36:05,691 ERROR [db-error] slave db  down.
+
+2019-11-14 22:36:19,711 ERROR [db-error] slave db  down.
+
+2019-11-14 22:36:33,696 ERROR [db-error] slave db  down.
+
+2019-11-14 22:36:47,714 ERROR [db-error] slave db  down.
+
+2019-11-14 22:37:01,702 ERROR [db-error] slave db  down.
+
+2019-11-14 22:37:15,712 ERROR [db-error] slave db  down.
+
+2019-11-14 22:37:29,700 ERROR [db-error] slave db  down.
+
+2019-11-14 22:37:43,711 ERROR [db-error] slave db  down.
+
+2019-11-14 22:37:57,697 ERROR [db-error] slave db  down.
+
+2019-11-14 22:38:11,716 ERROR [db-error] slave db  down.
+
+2019-11-14 22:38:25,731 ERROR [db-error] slave db  down.
+
+2019-11-14 22:38:39,726 ERROR [db-error] slave db  down.
+
+2019-11-14 22:38:53,733 ERROR [db-error] slave db  down.
+
+2019-11-14 22:39:07,721 ERROR [db-error] slave db  down.
+
+2019-11-14 22:39:21,736 ERROR [db-error] slave db  down.
+
+2019-11-14 22:39:35,722 ERROR [db-error] slave db  down.
+
+2019-11-14 22:39:49,731 ERROR [db-error] slave db  down.
+
+2019-11-14 22:40:03,719 ERROR [db-error] slave db  down.
+
+2019-11-14 22:40:17,731 ERROR [db-error] slave db  down.
+
+2019-11-14 22:40:31,724 ERROR [db-error] slave db  down.
+
+2019-11-14 22:40:45,733 ERROR [db-error] slave db  down.
+
+2019-11-14 22:40:59,726 ERROR [db-error] slave db  down.
+
+2019-11-14 22:41:13,732 ERROR [db-error] slave db  down.
+
+2019-11-14 22:41:27,718 ERROR [db-error] slave db  down.
+
+2019-11-14 22:41:41,730 ERROR [db-error] slave db  down.
+
+2019-11-14 22:41:55,749 ERROR [db-error] slave db  down.
+
+2019-11-14 22:42:09,736 ERROR [db-error] slave db  down.
+
+2019-11-14 22:42:23,748 ERROR [db-error] slave db  down.
+
+2019-11-14 22:42:37,735 ERROR [db-error] slave db  down.
+
+2019-11-14 22:42:51,743 ERROR [db-error] slave db  down.
+
+2019-11-14 22:43:05,748 ERROR [db-error] slave db  down.
+
+2019-11-14 22:43:19,756 ERROR [db-error] slave db  down.
+
+2019-11-14 22:43:33,739 ERROR [db-error] slave db  down.
+
+2019-11-14 22:43:47,746 ERROR [db-error] slave db  down.
+
+2019-11-14 22:44:01,732 ERROR [db-error] slave db  down.
+
+2019-11-14 22:44:15,737 ERROR [db-error] slave db  down.
+
+2019-11-14 22:44:29,722 ERROR [db-error] slave db  down.
+
+2019-11-14 22:44:43,738 ERROR [db-error] slave db  down.
+
+2019-11-14 22:44:57,727 ERROR [db-error] slave db  down.
+
+2019-11-14 22:45:11,737 ERROR [db-error] slave db  down.
+
+2019-11-14 22:45:25,747 ERROR [db-error] slave db  down.
+
+2019-11-14 22:45:39,732 ERROR [db-error] slave db  down.
+
+2019-11-14 22:45:53,740 ERROR [db-error] slave db  down.
+
+2019-11-14 22:46:07,724 ERROR [db-error] slave db  down.
+
+2019-11-14 22:46:21,734 ERROR [db-error] slave db  down.
+
+2019-11-14 22:46:35,717 ERROR [db-error] slave db  down.
+
+2019-11-14 22:46:49,725 ERROR [db-error] slave db  down.
+
+2019-11-14 22:47:03,713 ERROR [db-error] slave db  down.
+
+2019-11-14 22:47:17,719 ERROR [db-error] slave db  down.
+
+2019-11-14 22:47:31,703 ERROR [db-error] slave db  down.
+
+2019-11-14 22:47:45,717 ERROR [db-error] slave db  down.
+
+2019-11-14 22:47:59,708 ERROR [db-error] slave db  down.
+
+2019-11-14 22:48:13,715 ERROR [db-error] slave db  down.
+
+2019-11-14 22:48:27,699 ERROR [db-error] slave db  down.
+
+2019-11-14 22:48:41,707 ERROR [db-error] slave db  down.
+
+2019-11-14 22:48:55,720 ERROR [db-error] slave db  down.
+
+2019-11-14 22:49:09,705 ERROR [db-error] slave db  down.
+
+2019-11-14 22:49:23,712 ERROR [db-error] slave db  down.
+
+2019-11-14 22:49:37,700 ERROR [db-error] slave db  down.
+
+2019-11-14 22:49:51,707 ERROR [db-error] slave db  down.
+
+2019-11-14 22:50:05,695 ERROR [db-error] slave db  down.
+
+2019-11-14 22:50:19,703 ERROR [db-error] slave db  down.
+
+2019-11-14 22:50:33,693 ERROR [db-error] slave db  down.
+
+2019-11-14 22:50:47,703 ERROR [db-error] slave db  down.
+
+2019-11-14 22:51:01,687 ERROR [db-error] slave db  down.
+
+2019-11-14 22:51:15,699 ERROR [db-error] slave db  down.
+
+2019-11-14 22:51:29,688 ERROR [db-error] slave db  down.
+
+2019-11-14 22:51:43,693 ERROR [db-error] slave db  down.
+
+2019-11-14 22:51:57,688 ERROR [db-error] slave db  down.
+
+2019-11-14 22:52:11,696 ERROR [db-error] slave db  down.
+
+2019-11-14 22:52:25,706 ERROR [db-error] slave db  down.
+
+2019-11-14 22:52:39,692 ERROR [db-error] slave db  down.
+
+2019-11-14 22:52:53,699 ERROR [db-error] slave db  down.
+
+2019-11-14 22:53:07,689 ERROR [db-error] slave db  down.
+
+2019-11-14 22:53:21,694 ERROR [db-error] slave db  down.
+
+2019-11-14 22:53:35,682 ERROR [db-error] slave db  down.
+
+2019-11-14 22:53:49,706 ERROR [db-error] slave db  down.
+
+2019-11-14 22:54:03,690 ERROR [db-error] slave db  down.
+
+2019-11-14 22:54:17,700 ERROR [db-error] slave db  down.
+
+2019-11-14 22:54:31,688 ERROR [db-error] slave db  down.
+
+2019-11-14 22:54:45,704 ERROR [db-error] slave db  down.
+
+2019-11-14 22:54:59,699 ERROR [db-error] slave db  down.
+
+2019-11-14 22:55:13,705 ERROR [db-error] slave db  down.
+
+2019-11-14 22:55:27,692 ERROR [db-error] slave db  down.
+
+2019-11-14 22:55:41,703 ERROR [db-error] slave db  down.
+
+2019-11-14 22:55:55,725 ERROR [db-error] slave db  down.
+
+2019-11-14 22:56:09,711 ERROR [db-error] slave db  down.
+
+2019-11-14 22:56:23,718 ERROR [db-error] slave db  down.
+
+2019-11-14 22:56:37,706 ERROR [db-error] slave db  down.
+
+2019-11-14 22:56:51,716 ERROR [db-error] slave db  down.
+
+2019-11-14 22:57:05,715 ERROR [db-error] slave db  down.
+
+2019-11-14 22:57:19,725 ERROR [db-error] slave db  down.
+
+2019-11-14 22:57:33,710 ERROR [db-error] slave db  down.
+
+2019-11-14 22:57:47,720 ERROR [db-error] slave db  down.
+
+2019-11-14 22:58:01,709 ERROR [db-error] slave db  down.
+
+2019-11-14 22:58:15,722 ERROR [db-error] slave db  down.
+
+2019-11-14 22:58:29,722 ERROR [db-error] slave db  down.
+
+2019-11-14 22:58:43,737 ERROR [db-error] slave db  down.
+
+2019-11-14 22:58:57,735 ERROR [db-error] slave db  down.
+
+2019-11-14 22:59:11,751 ERROR [db-error] slave db  down.
+
+2019-11-14 22:59:25,766 ERROR [db-error] slave db  down.
+
+2019-11-14 22:59:39,757 ERROR [db-error] slave db  down.
+
+2019-11-14 22:59:53,773 ERROR [db-error] slave db  down.
+
+2019-11-14 23:00:07,772 ERROR [db-error] slave db  down.
+
+2019-11-14 23:00:21,796 ERROR [db-error] slave db  down.
+
+2019-11-14 23:00:35,784 ERROR [db-error] slave db  down.
+
+2019-11-14 23:00:49,796 ERROR [db-error] slave db  down.
+
+2019-11-14 23:01:03,786 ERROR [db-error] slave db  down.
+
+2019-11-14 23:01:17,801 ERROR [db-error] slave db  down.
+
+2019-11-14 23:01:31,787 ERROR [db-error] slave db  down.
+
+2019-11-14 23:01:45,796 ERROR [db-error] slave db  down.
+
+2019-11-14 23:01:59,781 ERROR [db-error] slave db  down.
+
+2019-11-14 23:02:13,793 ERROR [db-error] slave db  down.
+
+2019-11-14 23:02:27,778 ERROR [db-error] slave db  down.
+
+2019-11-14 23:02:41,790 ERROR [db-error] slave db  down.
+
+2019-11-14 23:02:55,807 ERROR [db-error] slave db  down.
+
+2019-11-14 23:03:09,805 ERROR [db-error] slave db  down.
+
+2019-11-14 23:03:23,814 ERROR [db-error] slave db  down.
+
+2019-11-14 23:03:37,803 ERROR [db-error] slave db  down.
+
+2019-11-14 23:03:51,812 ERROR [db-error] slave db  down.
+
+2019-11-14 23:04:05,808 ERROR [db-error] slave db  down.
+
+2019-11-14 23:04:19,827 ERROR [db-error] slave db  down.
+
+2019-11-14 23:04:33,818 ERROR [db-error] slave db  down.
+
+2019-11-14 23:04:47,833 ERROR [db-error] slave db  down.
+
+2019-11-14 23:05:01,828 ERROR [db-error] slave db  down.
+
+2019-11-14 23:05:15,834 ERROR [db-error] slave db  down.
+
+2019-11-14 23:05:29,823 ERROR [db-error] slave db  down.
+
+2019-11-14 23:05:43,847 ERROR [db-error] slave db  down.
+
+2019-11-14 23:05:57,832 ERROR [db-error] slave db  down.
+
+2019-11-14 23:06:11,840 ERROR [db-error] slave db  down.
+
+2019-11-14 23:06:25,856 ERROR [db-error] slave db  down.
+
+2019-11-14 23:06:39,849 ERROR [db-error] slave db  down.
+
+2019-11-14 23:06:53,863 ERROR [db-error] slave db  down.
+
+2019-11-14 23:07:07,858 ERROR [db-error] slave db  down.
+
+2019-11-14 23:07:21,870 ERROR [db-error] slave db  down.
+
+2019-11-14 23:07:35,855 ERROR [db-error] slave db  down.
+
+2019-11-14 23:07:49,865 ERROR [db-error] slave db  down.
+
+2019-11-14 23:08:03,853 ERROR [db-error] slave db  down.
+
+2019-11-14 23:08:17,863 ERROR [db-error] slave db  down.
+
+2019-11-14 23:08:31,860 ERROR [db-error] slave db  down.
+
+2019-11-14 23:08:45,870 ERROR [db-error] slave db  down.
+
+2019-11-14 23:08:59,853 ERROR [db-error] slave db  down.
+
+2019-11-14 23:09:13,859 ERROR [db-error] slave db  down.
+
+2019-11-14 23:09:27,849 ERROR [db-error] slave db  down.
+
+2019-11-14 23:09:41,859 ERROR [db-error] slave db  down.
+
+2019-11-14 23:09:55,846 ERROR [db-error] slave db  down.
+
+2019-11-14 23:10:09,858 ERROR [db-error] slave db  down.
+
+2019-11-14 23:10:23,866 ERROR [db-error] slave db  down.
+
+2019-11-14 23:10:37,854 ERROR [db-error] slave db  down.
+
+2019-11-14 23:10:51,864 ERROR [db-error] slave db  down.
+
+2019-11-14 23:11:05,848 ERROR [db-error] slave db  down.
+
+2019-11-14 23:11:19,862 ERROR [db-error] slave db  down.
+
+2019-11-14 23:11:33,850 ERROR [db-error] slave db  down.
+
+2019-11-14 23:11:47,857 ERROR [db-error] slave db  down.
+
+2019-11-14 23:12:01,841 ERROR [db-error] slave db  down.
+
+2019-11-14 23:12:15,848 ERROR [db-error] slave db  down.
+
+2019-11-14 23:12:29,843 ERROR [db-error] slave db  down.
+
+2019-11-14 23:12:43,854 ERROR [db-error] slave db  down.
+
+2019-11-14 23:12:57,836 ERROR [db-error] slave db  down.
+
+2019-11-14 23:13:11,848 ERROR [db-error] slave db  down.
+
+2019-11-14 23:13:25,836 ERROR [db-error] slave db  down.
+
+2019-11-14 23:13:39,846 ERROR [db-error] slave db  down.
+
+2019-11-14 23:13:53,856 ERROR [db-error] slave db  down.
+
+2019-11-14 23:14:07,851 ERROR [db-error] slave db  down.
+
+2019-11-14 23:14:21,859 ERROR [db-error] slave db  down.
+
+2019-11-14 23:14:35,842 ERROR [db-error] slave db  down.
+
+2019-11-14 23:14:49,854 ERROR [db-error] slave db  down.
+
+2019-11-14 23:15:03,838 ERROR [db-error] slave db  down.
+
+2019-11-14 23:15:17,848 ERROR [db-error] slave db  down.
+
+2019-11-14 23:15:31,839 ERROR [db-error] slave db  down.
+
+2019-11-14 23:15:45,847 ERROR [db-error] slave db  down.
+
+2019-11-14 23:15:59,832 ERROR [db-error] slave db  down.
+
+2019-11-14 23:16:13,843 ERROR [db-error] slave db  down.
+
+2019-11-14 23:16:27,833 ERROR [db-error] slave db  down.
+
+2019-11-14 23:16:41,842 ERROR [db-error] slave db  down.
+
+2019-11-14 23:16:55,826 ERROR [db-error] slave db  down.
+
+2019-11-14 23:17:09,834 ERROR [db-error] slave db  down.
+
+2019-11-14 23:17:23,846 ERROR [db-error] slave db  down.
+
+2019-11-14 23:17:37,831 ERROR [db-error] slave db  down.
+
+2019-11-14 23:17:51,851 ERROR [db-error] slave db  down.
+
+2019-11-14 23:18:05,839 ERROR [db-error] slave db  down.
+
+2019-11-14 23:18:19,852 ERROR [db-error] slave db  down.
+
+2019-11-14 23:18:33,844 ERROR [db-error] slave db  down.
+
+2019-11-14 23:18:47,854 ERROR [db-error] slave db  down.
+
+2019-11-14 23:19:01,843 ERROR [db-error] slave db  down.
+
+2019-11-14 23:19:15,851 ERROR [db-error] slave db  down.
+
+2019-11-14 23:19:29,835 ERROR [db-error] slave db  down.
+
+2019-11-14 23:19:43,850 ERROR [db-error] slave db  down.
+
+2019-11-14 23:19:57,837 ERROR [db-error] slave db  down.
+
+2019-11-14 23:20:11,849 ERROR [db-error] slave db  down.
+
+2019-11-14 23:20:25,836 ERROR [db-error] slave db  down.
+
+2019-11-14 23:20:39,849 ERROR [db-error] slave db  down.
+
+2019-11-14 23:20:53,856 ERROR [db-error] slave db  down.
+
+2019-11-14 23:21:07,857 ERROR [db-error] slave db  down.
+
+2019-11-14 23:21:21,869 ERROR [db-error] slave db  down.
+
+2019-11-14 23:21:35,859 ERROR [db-error] slave db  down.
+
+2019-11-14 23:21:49,873 ERROR [db-error] slave db  down.
+
+2019-11-14 23:22:03,863 ERROR [db-error] slave db  down.
+
+2019-11-14 23:22:17,879 ERROR [db-error] slave db  down.
+
+2019-11-14 23:22:31,866 ERROR [db-error] slave db  down.
+
+2019-11-14 23:22:45,873 ERROR [db-error] slave db  down.
+
+2019-11-14 23:22:59,860 ERROR [db-error] slave db  down.
+
+2019-11-14 23:23:13,870 ERROR [db-error] slave db  down.
+
+2019-11-14 23:23:27,857 ERROR [db-error] slave db  down.
+
+2019-11-14 23:23:41,864 ERROR [db-error] slave db  down.
+
+2019-11-14 23:23:55,851 ERROR [db-error] slave db  down.
+
+2019-11-14 23:24:09,860 ERROR [db-error] slave db  down.
+
+2019-11-14 23:24:23,882 ERROR [db-error] slave db  down.
+
+2019-11-14 23:24:37,871 ERROR [db-error] slave db  down.
+
+2019-11-14 23:24:51,882 ERROR [db-error] slave db  down.
+
+2019-11-14 23:25:05,873 ERROR [db-error] slave db  down.
+
+2019-11-14 23:25:19,884 ERROR [db-error] slave db  down.
+
+2019-11-14 23:25:33,871 ERROR [db-error] slave db  down.
+
+2019-11-14 23:25:47,881 ERROR [db-error] slave db  down.
+
+2019-11-14 23:26:01,878 ERROR [db-error] slave db  down.
+
+2019-11-14 23:26:15,892 ERROR [db-error] slave db  down.
+
+2019-11-14 23:26:29,884 ERROR [db-error] slave db  down.
+
+2019-11-14 23:26:43,898 ERROR [db-error] slave db  down.
+
+2019-11-14 23:26:57,886 ERROR [db-error] slave db  down.
+
+2019-11-14 23:27:11,901 ERROR [db-error] slave db  down.
+
+2019-11-14 23:27:25,897 ERROR [db-error] slave db  down.
+
+2019-11-14 23:27:39,916 ERROR [db-error] slave db  down.
+
+2019-11-14 23:27:53,928 ERROR [db-error] slave db  down.
+
+2019-11-14 23:28:07,922 ERROR [db-error] slave db  down.
+
+2019-11-14 23:28:21,935 ERROR [db-error] slave db  down.
+
+2019-11-14 23:28:35,920 ERROR [db-error] slave db  down.
+
+2019-11-14 23:28:49,931 ERROR [db-error] slave db  down.
+
+2019-11-14 23:29:03,919 ERROR [db-error] slave db  down.
+
+2019-11-14 23:29:17,930 ERROR [db-error] slave db  down.
+
+2019-11-14 23:29:31,919 ERROR [db-error] slave db  down.
+
+2019-11-14 23:29:45,928 ERROR [db-error] slave db  down.
+
+2019-11-14 23:29:59,915 ERROR [db-error] slave db  down.
+
+2019-11-14 23:30:13,921 ERROR [db-error] slave db  down.
+
+2019-11-14 23:30:27,907 ERROR [db-error] slave db  down.
+
+2019-11-14 23:30:41,918 ERROR [db-error] slave db  down.
+
+2019-11-14 23:30:55,908 ERROR [db-error] slave db  down.
+
+2019-11-14 23:31:09,914 ERROR [db-error] slave db  down.
+
+2019-11-14 23:31:23,923 ERROR [db-error] slave db  down.
+
+2019-11-14 23:31:37,910 ERROR [db-error] slave db  down.
+
+2019-11-14 23:31:51,929 ERROR [db-error] slave db  down.
+
+2019-11-14 23:32:05,919 ERROR [db-error] slave db  down.
+
+2019-11-14 23:32:19,930 ERROR [db-error] slave db  down.
+
+2019-11-14 23:32:33,925 ERROR [db-error] slave db  down.
+
+2019-11-14 23:32:47,935 ERROR [db-error] slave db  down.
+
+2019-11-14 23:33:01,921 ERROR [db-error] slave db  down.
+
+2019-11-14 23:33:15,934 ERROR [db-error] slave db  down.
+
+2019-11-14 23:33:29,930 ERROR [db-error] slave db  down.
+
+2019-11-14 23:33:43,946 ERROR [db-error] slave db  down.
+
+2019-11-14 23:33:57,943 ERROR [db-error] slave db  down.
+
+2019-11-14 23:34:11,950 ERROR [db-error] slave db  down.
+
+2019-11-14 23:34:25,935 ERROR [db-error] slave db  down.
+
+2019-11-14 23:34:39,952 ERROR [db-error] slave db  down.
+
+2019-11-14 23:34:53,961 ERROR [db-error] slave db  down.
+
+2019-11-14 23:35:07,952 ERROR [db-error] slave db  down.
+
+2019-11-14 23:35:21,970 ERROR [db-error] slave db  down.
+
+2019-11-14 23:35:35,953 ERROR [db-error] slave db  down.
+
+2019-11-14 23:35:49,961 ERROR [db-error] slave db  down.
+
+2019-11-14 23:36:03,949 ERROR [db-error] slave db  down.
+
+2019-11-14 23:36:17,956 ERROR [db-error] slave db  down.
+
+2019-11-14 23:36:31,949 ERROR [db-error] slave db  down.
+
+2019-11-14 23:36:45,962 ERROR [db-error] slave db  down.
+
+2019-11-14 23:36:59,948 ERROR [db-error] slave db  down.
+
+2019-11-14 23:37:13,955 ERROR [db-error] slave db  down.
+
+2019-11-14 23:37:27,949 ERROR [db-error] slave db  down.
+
+2019-11-14 23:37:41,970 ERROR [db-error] slave db  down.
+
+2019-11-14 23:37:55,955 ERROR [db-error] slave db  down.
+
+2019-11-14 23:38:09,968 ERROR [db-error] slave db  down.
+
+2019-11-14 23:38:23,975 ERROR [db-error] slave db  down.
+
+2019-11-14 23:38:37,972 ERROR [db-error] slave db  down.
+
+2019-11-14 23:38:51,979 ERROR [db-error] slave db  down.
+
+2019-11-14 23:39:05,964 ERROR [db-error] slave db  down.
+
+2019-11-14 23:39:19,971 ERROR [db-error] slave db  down.
+
+2019-11-14 23:39:33,957 ERROR [db-error] slave db  down.
+
+2019-11-14 23:39:47,963 ERROR [db-error] slave db  down.
+
+2019-11-14 23:40:01,948 ERROR [db-error] slave db  down.
+
+2019-11-14 23:40:15,959 ERROR [db-error] slave db  down.
+
+2019-11-14 23:40:29,956 ERROR [db-error] slave db  down.
+
+2019-11-14 23:40:43,964 ERROR [db-error] slave db  down.
+
+2019-11-14 23:40:57,957 ERROR [db-error] slave db  down.
+
+2019-11-14 23:41:11,964 ERROR [db-error] slave db  down.
+
+2019-11-14 23:41:25,951 ERROR [db-error] slave db  down.
+
+2019-11-14 23:41:39,970 ERROR [db-error] slave db  down.
+
+2019-11-14 23:41:53,982 ERROR [db-error] slave db  down.
+
+2019-11-14 23:42:07,966 ERROR [db-error] slave db  down.
+
+2019-11-14 23:42:21,978 ERROR [db-error] slave db  down.
+
+2019-11-14 23:42:35,968 ERROR [db-error] slave db  down.
+
+2019-11-14 23:42:49,977 ERROR [db-error] slave db  down.
+
+2019-11-14 23:43:03,968 ERROR [db-error] slave db  down.
+
+2019-11-14 23:43:17,974 ERROR [db-error] slave db  down.
+
+2019-11-14 23:43:31,962 ERROR [db-error] slave db  down.
+
+2019-11-14 23:43:45,971 ERROR [db-error] slave db  down.
+
+2019-11-14 23:43:59,953 ERROR [db-error] slave db  down.
+
+2019-11-14 23:44:13,963 ERROR [db-error] slave db  down.
+
+2019-11-14 23:44:27,956 ERROR [db-error] slave db  down.
+
+2019-11-14 23:44:41,969 ERROR [db-error] slave db  down.
+
+2019-11-14 23:44:55,966 ERROR [db-error] slave db  down.
+
+2019-11-14 23:45:09,976 ERROR [db-error] slave db  down.
+
+2019-11-14 23:45:23,989 ERROR [db-error] slave db  down.
+
+2019-11-14 23:45:37,977 ERROR [db-error] slave db  down.
+
+2019-11-14 23:45:51,984 ERROR [db-error] slave db  down.
+
+2019-11-14 23:46:05,972 ERROR [db-error] slave db  down.
+
+2019-11-14 23:46:19,979 ERROR [db-error] slave db  down.
+
+2019-11-14 23:46:33,965 ERROR [db-error] slave db  down.
+
+2019-11-14 23:46:47,973 ERROR [db-error] slave db  down.
+
+2019-11-14 23:47:01,964 ERROR [db-error] slave db  down.
+
+2019-11-14 23:47:15,972 ERROR [db-error] slave db  down.
+
+2019-11-14 23:47:29,960 ERROR [db-error] slave db  down.
+
+2019-11-14 23:47:43,976 ERROR [db-error] slave db  down.
+
+2019-11-14 23:47:57,964 ERROR [db-error] slave db  down.
+
+2019-11-14 23:48:11,977 ERROR [db-error] slave db  down.
+
+2019-11-14 23:48:25,966 ERROR [db-error] slave db  down.
+
+2019-11-14 23:48:39,973 ERROR [db-error] slave db  down.
+
+2019-11-14 23:48:53,994 ERROR [db-error] slave db  down.
+
+2019-11-14 23:49:07,980 ERROR [db-error] slave db  down.
+
+2019-11-14 23:49:21,998 ERROR [db-error] slave db  down.
+
+2019-11-14 23:49:35,986 ERROR [db-error] slave db  down.
+
+2019-11-14 23:49:49,998 ERROR [db-error] slave db  down.
+
+2019-11-14 23:50:03,986 ERROR [db-error] slave db  down.
+
+2019-11-14 23:50:17,996 ERROR [db-error] slave db  down.
+
+2019-11-14 23:50:31,985 ERROR [db-error] slave db  down.
+
+2019-11-14 23:50:46,001 ERROR [db-error] slave db  down.
+
+2019-11-14 23:51:00,006 ERROR [db-error] slave db  down.
+
+2019-11-14 23:51:14,020 ERROR [db-error] slave db  down.
+
+2019-11-14 23:51:28,012 ERROR [db-error] slave db  down.
+
+2019-11-14 23:51:42,019 ERROR [db-error] slave db  down.
+
+2019-11-14 23:51:56,003 ERROR [db-error] slave db  down.
+
+2019-11-14 23:52:10,013 ERROR [db-error] slave db  down.
+
+2019-11-14 23:52:24,023 ERROR [db-error] slave db  down.
+
+2019-11-14 23:52:38,014 ERROR [db-error] slave db  down.
+
+2019-11-14 23:52:52,029 ERROR [db-error] slave db  down.
+
+2019-11-14 23:53:06,025 ERROR [db-error] slave db  down.
+
+2019-11-14 23:53:20,033 ERROR [db-error] slave db  down.
+
+2019-11-14 23:53:34,017 ERROR [db-error] slave db  down.
+
+2019-11-14 23:53:48,027 ERROR [db-error] slave db  down.
+
+2019-11-14 23:54:02,010 ERROR [db-error] slave db  down.
+
+2019-11-14 23:54:16,020 ERROR [db-error] slave db  down.
+
+2019-11-14 23:54:30,005 ERROR [db-error] slave db  down.
+
+2019-11-14 23:54:44,013 ERROR [db-error] slave db  down.
+
+2019-11-14 23:54:57,997 ERROR [db-error] slave db  down.
+
+2019-11-14 23:55:12,003 ERROR [db-error] slave db  down.
+
+2019-11-14 23:55:25,999 ERROR [db-error] slave db  down.
+
+2019-11-14 23:55:40,010 ERROR [db-error] slave db  down.
+
+2019-11-14 23:55:54,022 ERROR [db-error] slave db  down.
+
+2019-11-14 23:56:08,015 ERROR [db-error] slave db  down.
+
+2019-11-14 23:56:22,033 ERROR [db-error] slave db  down.
+
+2019-11-14 23:56:36,019 ERROR [db-error] slave db  down.
+
+2019-11-14 23:56:50,027 ERROR [db-error] slave db  down.
+
+2019-11-14 23:57:04,017 ERROR [db-error] slave db  down.
+
+2019-11-14 23:57:18,024 ERROR [db-error] slave db  down.
+
+2019-11-14 23:57:32,018 ERROR [db-error] slave db  down.
+
+2019-11-14 23:57:46,030 ERROR [db-error] slave db  down.
+
+2019-11-14 23:58:00,024 ERROR [db-error] slave db  down.
+
+2019-11-14 23:58:14,042 ERROR [db-error] slave db  down.
+
+2019-11-14 23:58:28,037 ERROR [db-error] slave db  down.
+
+2019-11-14 23:58:42,045 ERROR [db-error] slave db  down.
+
+2019-11-14 23:58:56,029 ERROR [db-error] slave db  down.
+
+2019-11-14 23:59:10,040 ERROR [db-error] slave db  down.
+
+2019-11-14 23:59:24,055 ERROR [db-error] slave db  down.
+
+2019-11-14 23:59:38,040 ERROR [db-error] slave db  down.
+
+2019-11-14 23:59:52,055 ERROR [db-error] slave db  down.
+

@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: dubbo-park-employee-provider
+dubbo:
+  scan:
+    base-packages: com.htyl.park.employee.provider
+  protocol:
+    name: dubbo
+    port: 20880
+  application:
+#    logger: log4j
+    name: dubbo-employee-provider
+mybatis:
+  mapper-locations: classpath*:com/htyl/park/employee/mapper/xml/*.xml
+server:
+  port: 8000
+pagehelper:
+  params: pageNum=offset;pageSize=limit;
+  support-methods-arguments: true #使用参数方式，需要配置 supportMethodsArguments 参数为 true，同时要配置 params 参数。
+  reasonable: true #页数不在合法范围（第一页到最后一页之外）时能够正确的响应到正确的结果页面

@@ -1,0 +1,50 @@
+2019-11-14 18:47:16,789 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"ec41bf8331dd","key":"ec41bf8331dd:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2019-11-14 18:47:17,492 INFO initializing Raft sub-system
+
+2019-11-14 18:47:17,508 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2019-11-14 18:47:17,507 INFO raft notifier started
+
+2019-11-14 18:47:17,517 INFO cache loaded, datum count: 0, current term: 0
+
+2019-11-14 18:47:17,518 INFO finish to load data from disk, cost: 11 ms.
+
+2019-11-14 18:47:17,530 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"ec41bf8331dd","key":"ec41bf8331dd:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-11-14 18:47:17,534 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2019-11-14 18:47:17,757 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2019-11-14 18:47:27,119 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2019-11-14 18:47:36,692 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"ec41bf8331dd","key":"ec41bf8331dd:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-14 18:47:36,693 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"ec41bf8331dd","key":"ec41bf8331dd:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2019-11-14 18:47:36,693 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"ec41bf8331dd","key":"ec41bf8331dd:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-14 18:47:38,741 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"ec41bf8331dd","key":"ec41bf8331dd:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2019-11-14 19:10:20,504 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
+2019-11-14 21:05:00,593 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
+2019-11-14 21:05:00,595 INFO data added/updated, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:, term=100
+
+2019-11-14 21:05:00,595 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
+2019-11-14 21:05:00,595 INFO [RAFT-NOTIFIER] datum is changed, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:, value: Service{name='DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:', protectThreshold=0.0, appName='null', groupName='DEFAULT_GROUP', metadata={}}
+
+2019-11-14 21:05:00,595 INFO signalPublish cost 30 ms, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
+2019-11-14 21:05:05,920 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
+2019-11-14 21:05:05,920 INFO data added/updated, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:, term=200
+
+2019-11-14 21:05:05,920 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
+2019-11-14 21:05:05,920 INFO [RAFT-NOTIFIER] datum is changed, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:, value: Service{name='DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:', protectThreshold=0.0, appName='null', groupName='DEFAULT_GROUP', metadata={}}
+
+2019-11-14 21:05:05,921 INFO signalPublish cost 3 ms, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@providers:com.htyl.park.employee.DemoService:1.0.0:
+
