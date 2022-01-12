@@ -7,7 +7,7 @@
     <description>The demo module of dubbo project</description>
     <properties>
         <skip_maven_deploy>true</skip_maven_deploy>
-        <dubbo.version>2.7.4.1</dubbo.version>
+        <dubbo.version>2.7.15</dubbo.version>
     </properties>
     <parent>
         <groupId>com.htyl.park</groupId>
